@@ -10,6 +10,13 @@ const config = {
   ],
   prefix: "",
   theme: {
+    colors: {
+      nv: {
+        green: "#91c733",
+        dark: "#1a1a1a",
+        light: "#f1f1f1",
+      },
+    },
     container: {
       center: true,
       padding: "2rem",
@@ -35,6 +42,6 @@ const config = {
     },
   },
   plugins: [require("tailwindcss-animate")],
-} satisfies Config
+} satisfies Config;
 
-export default config
+export default config;
