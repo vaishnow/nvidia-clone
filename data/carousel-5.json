@@ -1,0 +1,110 @@
+{
+  "title": "Automotive",
+  "desc": "NVIDIA DRIVE® is an end-to-end platform for the development and deployment of software-defined autonomous vehicles. Spanning from the cloud to the car, NVIDIA’s AI platform enables safer, more efficient transportation at scale.",
+  "quicklinks": [
+    {
+      "name": "Overview",
+      "url": "https://www.nvidia.com/en-in/self-driving-cars/"
+    },
+    {
+      "name": "Chauffeur",
+      "url": "https://www.nvidia.com/en-in/self-driving-cars/drive-chauffeur/"
+    },
+    {
+      "name": "Concierge",
+      "url": "https://www.nvidia.com/en-in/self-driving-cars/drive-ix/"
+    },
+    {
+      "name": "AI Training",
+      "url": "https://www.nvidia.com/en-in/self-driving-cars/data-center/"
+    },
+    {
+      "name": "Simulation",
+      "url": "https://www.nvidia.com/en-in/self-driving-cars/simulation/"
+    },
+    {
+      "name": "HD Mapping",
+      "url": "https://www.nvidia.com/en-in/self-driving-cars/hd-mapping/"
+    },
+    {
+      "name": "ADAS",
+      "url": "https://www.nvidia.com/en-in/self-driving-cars/adas/"
+    },
+    {
+      "name": "Partners",
+      "url": "https://www.nvidia.com/en-in/self-driving-cars/partners/"
+    }
+  ],
+  "carousel": [
+    {
+      "src": "sfg-nvidia-drive-thor.jpeg",
+      "href": "https://nvidianews.nvidia.com/news/nvidia-drive-powers-next-generation-transportation",
+      "type": "Automotive | Announcement",
+      "title": "NVIDIA DRIVE Thor Power the Future of Transportation",
+      "desc": "Leading companies across the transportation industry count on NVIDIA DRIVE™ Thor to advance their next-generation vehicles."
+    },
+    {
+      "src": "nvidia-omniverse-cloud-apis-4k-sfg.jpeg",
+      "href": "https://blogs.nvidia.com/blog/omniverse-cloud-apis/",
+      "type": "Automotive | Announcement",
+      "title": "NVIDIA Supercharges Autonomous System Development With Omniverse Cloud APIs",
+      "desc": "The new APIs deliver large-scale, high-fidelity, and physically based sensor simulations to accelerate autonomous vehicle development."
+    },
+    {
+      "src": "gtc24-automotive-ecosystem-demo-ari.jpeg",
+      "href": "https://blogs.nvidia.com/blog/automotive-tech-gtc-2024/",
+      "type": "Automotive | Blog",
+      "title": "Automotive on Full Display at GTC",
+      "desc": "From EV makers adopting NVIDIA DRIVE Thor to Omniverse Cloud APIs for simulation, learn about the latest automotive announcements at GTC24."
+    },
+    {
+      "src": "gtc-24-automotive-sfg-in-wehicle-llm-blog-demo-ari.jpeg",
+      "href": "https://www.nvidia.com/en-in/#",
+      "type": "Automotive | Blog",
+      "title": "NVIDIA DRIVE Transforms In-Vehicle Experiences",
+      "desc": "Learn how generative AI developers are building intelligent AI assistants using NVIDIA’s edge-to-cloud technology."
+    },
+    {
+      "src": "automotive-partners-sfg-ari-1920x1080.jpeg",
+      "href": "https://blogs.nvidia.com/blog/auto-digitalization/",
+      "type": "Automotive | Blog",
+      "title": "NVIDIA Automotive Partners Digitalize the Industry",
+      "desc": "NVIDIA partners are fusing the physical and digital worlds to redefine the automotive industry."
+    },
+    {
+      "src": "nvidia-ces24-auto-ecosystem-sfg-2560x1440.jpeg",
+      "href": "https://blogs.nvidia.com/blog/nvidia-drive-partners-innovations-video/",
+      "type": "Automotive | Blog",
+      "title": "NVIDIA DRIVE Partners Showcase Innovations in Autonomous Vehicles",
+      "desc": "Explore unique perspectives from industry leaders on how AI is shaping the future of transportation."
+    },
+    {
+      "src": "automotive-configurator-1920x1080.jpeg",
+      "href": "https://blogs.nvidia.com/blog/omniverse-global-automotive-configurator-developer-ecosystem/",
+      "type": "Automotive | Blog",
+      "title": "Automotive Configurator Developers Adopt NVIDIA Omniverse",
+      "desc": "WPP, Zerolight, Ford, and Lotus are embracing the interactive 3D platform."
+    },
+    {
+      "src": "li-auto-ari.jpeg",
+      "href": "https://nvidianews.nvidia.com/news/wave-of-ev-makers-choose-nvidia-drive-for-automated-driving",
+      "type": "Automotive | Announcement",
+      "title": "Wave of Automakers Select NVIDIA DRIVE for Automated Driving",
+      "desc": "Li Auto, Great Wall Motor, Xiaomi, and ZEEKR adopt the NVIDIA DRIVE platform."
+    },
+    {
+      "src": "nvidia-omniverse-for-auto-sfg.jpeg",
+      "href": "https://blogs.nvidia.com/blog/omniverse-cloud-services-microsoft-azure/",
+      "type": "Automotive | Announcement",
+      "title": "NVIDIA Omniverse Cloud on Microsoft Azure to Accelerate Automotive Digitalization",
+      "desc": "Virtual factory and autonomous vehicle simulation engines hosted on Azure will streamline design, production, and validation."
+    },
+    {
+      "src": "nvidia-drive-software.jpeg",
+      "href": "https://www.nvidia.com/en-in/self-driving-cars/drive-platform/software/",
+      "type": "Self-Driving Vehicles | Product",
+      "title": "NVIDIA DRIVE Software",
+      "desc": "Learn how NVIDIA DRIVE® SDK provides the building blocks for intelligent driving."
+    }
+  ]
+}

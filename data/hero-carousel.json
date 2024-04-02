@@ -1,0 +1,98 @@
+[
+  {
+    "heading": "NVIDIA GTC Keynote",
+    "title": "Don’t Miss This Transformative  Moment in AI",
+    "paragraph": "Don’t Miss This<br />Transformative<br />Moment in AI",
+    "button": {
+      "href": "https://www.nvidia.com/gtc/keynote/",
+      "value": "Watch Now"
+    },
+    "picture": {
+      "dataSrcsetMobile": "/gtc24-spring-web-nv-hp-wmfg-keynote-jhh-2889700-wmfg-bb770_550-p.jpg, /gtc24-spring-web-nv-hp-wmfg-keynote-jhh-2889700-wmfg-bb770_550-p@2x.jpg 2x",
+      "dataSrcsetTablet": "/gtc24-spring-web-nv-hp-wmfg-keynote-jhh-2889700-wmfg-bb770_550-t.jpg, /gtc24-spring-web-nv-hp-wmfg-keynote-jhh-2889700-wmfg-bb770_550-t@2x.jpg 2x",
+      "dataSrcsetLaptop": "/gtc24-spring-web-nv-hp-wmfg-keynote-jhh-2889700-wmfg-bb770_550-l.jpg, /gtc24-spring-web-nv-hp-wmfg-keynote-jhh-2889700-wmfg-bb770_550-l@2x.jpg 2x",
+      "dataSrcsetDesktop": "/gtc24-spring-web-nv-hp-wmfg-keynote-jhh-2889700-wmfg-bb770_550-d.jpg, /gtc24-spring-web-nv-hp-wmfg-keynote-jhh-2889700-wmfg-bb770_550-d@2x.jpg 2x",
+      "fallback": "gtc24-spring-web-nv-hp-wmfg-keynote-jhh-2889700-wmfg-bb770_550-d.jpg"
+    }
+  },
+  {
+    "heading": "Data Center",
+    "title": "Announcing the NVIDIA Blackwell Platform",
+    "paragraph": "Announcing the NVIDIA Blackwell Platform",
+    "button": {
+      "href": "https://nvidianews.nvidia.com/news/nvidia-blackwell-platform-arrives-to-power-a-new-era-of-computing",
+      "value": "Learn More"
+    },
+    "picture": {
+      "dataSrcsetMobile": "/nvidia-blackwell-platform-wmfg-bb770_550-p.jpg, /nvidia-blackwell-platform-wmfg-bb770_550-p@2x.jpg 2x",
+      "dataSrcsetTablet": "/nvidia-blackwell-platform-wmfg-bb770_550-t.jpg, /nvidia-blackwell-platform-wmfg-bb770_550-t@2x.jpg 2x",
+      "dataSrcsetLaptop": "/nvidia-blackwell-platform-wmfg-bb770_550-l.jpg, /nvidia-blackwell-platform-wmfg-bb770_550-l@2x.jpg 2x",
+      "dataSrcsetDesktop": "/nvidia-blackwell-platform-wmfg-bb770_550-d.jpg, /nvidia-blackwell-platform-wmfg-bb770_550-d@2x.jpg 2x",
+      "fallback": "nvidia-blackwell-platform-wmfg-bb770_550-d.jpg"
+    }
+  },
+  {
+    "heading": "AI",
+    "title": "Announcing Generative AI Microservices",
+    "paragraph": "Announcing Generative AI Microservices",
+    "button": {
+      "href": "https://www.nvidia.com/en-in/ai/",
+      "value": "Learn More"
+    },
+    "picture": {
+      "dataSrcsetMobile": "/nvidia-gen-ai-api-wmfg-bb770_550-p.jpg, /nvidia-gen-ai-api-wmfg-bb770_550-p@2x.jpg 2x",
+      "dataSrcsetTablet": "/nvidia-gen-ai-api-wmfg-bb770_550-t.jpg, /nvidia-gen-ai-api-wmfg-bb770_550-t@2x.jpg 2x",
+      "dataSrcsetLaptop": "/nvidia-gen-ai-api-wmfg-bb770_550-l.jpg, /nvidia-gen-ai-api-wmfg-bb770_550-l@2x.jpg 2x",
+      "dataSrcsetDesktop": "/nvidia-gen-ai-api-wmfg-bb770_550-d.jpg, /nvidia-gen-ai-api-wmfg-bb770_550-d@2x.jpg 2x",
+      "fallback": "nvidia-gen-ai-api-wmfg-bb770_550-d.jpg"
+    }
+  },
+  {
+    "heading": "Robotics",
+    "title": "Project GR00T Foundation Model for Humanoid Robots",
+    "paragraph": "Project GR00T Foundation Model for Humanoid Robots",
+    "button": {
+      "href": "https://nvidianews.nvidia.com/news/foundation-model-isaac-robotics-platform",
+      "value": "Learn More"
+    },
+    "picture": {
+      "dataSrcsetMobile": "/gr00t-humanoids-web-banner-770-p.jpg, /gr00t-humanoids-web-banner-770-p@2x.jpg 2x",
+      "dataSrcsetTablet": "/gr00t-humanoids-web-banner-770-t.jpg, /gr00t-humanoids-web-banner-770-t@2x.jpg 2x",
+      "dataSrcsetLaptop": "/gr00t-humanoids-web-banner-770-l.jpg, /gr00t-humanoids-web-banner-770-l@2x.jpg 2x",
+      "dataSrcsetDesktop": "/gr00t-humanoids-web-banner-770-d.jpg, /gr00t-humanoids-web-banner-770-d@2x.jpg 2x",
+      "fallback": "gr00t-humanoids-web-banner-770-d.jpg"
+    }
+  },
+  {
+    "heading": "Simulation",
+    "title": "NVIDIA Omniverse Cloud APIs to Power Industrial Software Tools",
+    "paragraph": "NVIDIA Omniverse Cloud APIs to Power Industrial Software Tools",
+    "button": {
+      "href": "https://nvidianews.nvidia.com/news/omniverse-cloud-apis-industrial-digital-twin",
+      "value": "Read Press Release"
+    },
+    "picture": {
+      "dataSrcsetMobile": "/nvidia-omniverse-cloud-apis-wmfg-bb770_550-p.jpg, /nvidia-omniverse-cloud-apis-wmfg-bb770_550-p@2x.jpg 2x",
+      "dataSrcsetTablet": "/nvidia-omniverse-cloud-apis-wmfg-bb770_550-t.jpg, /nvidia-omniverse-cloud-apis-wmfg-bb770_550-t@2x.jpg 2x",
+      "dataSrcsetLaptop": "/nvidia-omniverse-cloud-apis-wmfg-bb770_550-l.jpg, /nvidia-omniverse-cloud-apis-wmfg-bb770_550-l@2x.jpg 2x",
+      "dataSrcsetDesktop": "/nvidia-omniverse-cloud-apis-wmfg-bb770_550-d.jpg, /nvidia-omniverse-cloud-apis-wmfg-bb770_550-d@2x.jpg 2x",
+      "fallback": "nvidia-omniverse-cloud-apis-wmfg-bb770_550-d.jpg"
+    }
+  },
+  {
+    "heading": "AI",
+    "title": "New Business-Specific Generative AI Capabilities",
+    "paragraph": "New Business-Specific Generative AI Capabilities",
+    "button": {
+      "href": "https://nvidianews.nvidia.com/news/sap-nvidia-generative-ai-enterprise-applications?nvid=nv-int-cwmfg-384843",
+      "value": "Learn More"
+    },
+    "picture": {
+      "dataSrcsetMobile": "/nvidia-sap-wmfg-bb770_550-p.jpg, /nvidia-sap-wmfg-bb770_550-p@2x.jpg 2x",
+      "dataSrcsetTablet": "/nvidia-sap-wmfg-bb770_550-t.jpg, /nvidia-sap-wmfg-bb770_550-t@2x.jpg 2x",
+      "dataSrcsetLaptop": "/nvidia-sap-wmfg-bb770_550-l.jpg, /nvidia-sap-wmfg-bb770_550-l@2x.jpg 2x",
+      "dataSrcsetDesktop": "/nvidia-sap-wmfg-bb770_550-d.jpg, /nvidia-sap-wmfg-bb770_550-d@2x.jpg 2x",
+      "fallback": "nvidia-sap-wmfg-bb770_550-d.jpg"
+    }
+  }
+]

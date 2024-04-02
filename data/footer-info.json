@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Company Information",
+    "links": [
+      {
+        "name": "About Us",
+        "url": "https://www.nvidia.com/en-in/about-nvidia/"
+      },
+      {
+        "name": "Company Overview",
+        "url": "https://images.nvidia.com/aem-dam/Solutions/homepage/pdf/NVIDIA-Story.pdf"
+      },
+      {
+        "name": "Investors",
+        "url": "https://investor.nvidia.com/home/default.aspx"
+      },
+      {
+        "name": "Venture Capital (NVentures)",
+        "url": "https://www.nventures.ai/"
+      },
+      {
+        "name": "NVIDIA Foundation",
+        "url": "https://www.nvidia.com/en-us/foundation/"
+      },
+      {
+        "name": "Research",
+        "url": "https://www.nvidia.com/en-us/research/"
+      },
+      {
+        "name": "Social Responsibility",
+        "url": "https://www.nvidia.com/en-us/csr/"
+      },
+      {
+        "name": "Technologies",
+        "url": "https://www.nvidia.com/en-in/technologies/"
+      },
+      {
+        "name": "Careers",
+        "url": "https://www.nvidia.com/en-in/about-nvidia/careers/"
+      }
+    ]
+  },
+  {
+    "title": "News and Events",
+    "links": [
+      {
+        "name": "Newsroom",
+        "url": "https://nvidianews.nvidia.com/"
+      },
+      {
+        "name": "Company Blog",
+        "url": "https://blogs.nvidia.com/"
+      },
+      {
+        "name": "Technical Blog",
+        "url": "https://developer.nvidia.com/blog/"
+      },
+      {
+        "name": "Webinars",
+        "url": "https://www.nvidia.com/en-us/about-nvidia/webinar-portal/"
+      },
+      {
+        "name": "Stay Informed",
+        "url": "https://www.nvidia.com/en-in/preferences/email-signup/"
+      },
+      {
+        "name": "Events Calendar",
+        "url": "https://www.nvidia.com/en-in/events/"
+      },
+      {
+        "name": "GTC AI Conference",
+        "url": "https://www.nvidia.com/gtc/"
+      },
+      {
+        "name": "NVIDIA On-Demand",
+        "url": "https://www.nvidia.com/en-us/on-demand/"
+      }
+    ]
+  },
+  {
+    "title": "Popular Links",
+    "links": [
+      {
+        "name": "Developers",
+        "url": "https://developer.nvidia.com/"
+      },
+      {
+        "name": "Partners",
+        "url": "https://www.nvidia.com/en-in/about-nvidia/partners/"
+      },
+      {
+        "name": "Executive Insights",
+        "url": "https://www.nvidia.com/en-in/executive-insights/"
+      },
+      {
+        "name": "Startups and VCs",
+        "url": "https://www.nvidia.com/en-in/startups/"
+      },
+      {
+        "name": "Documentation",
+        "url": "https://docs.nvidia.com/"
+      },
+      {
+        "name": "Technical Training",
+        "url": "https://www.nvidia.com/en-in/training/"
+      },
+      {
+        "name": "Training for IT Professionals",
+        "url": "https://academy.nvidia.com/en/"
+      },
+      {
+        "name": "Professional Services for Data Science",
+        "url": "https://www.nvidia.com/en-in/ai-data-science/professional-services/"
+      }
+    ]
+  }
+]

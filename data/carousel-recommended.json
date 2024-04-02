@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Don’t Miss This Transformative Moment in AI",
+    "type": "NVIDIA GTC | Event",
+    "href": "https://www.nvidia.com/gtc/",
+    "src": "gtc24-spring-web-nv-hp-sfg-keynote-jhh-2889700.jpeg"
+  },
+  {
+    "title": "The New NVIDIA DGX SuperPOD—Powered by Grace Blackwell Superchips",
+    "type": "Data Center | Announcement",
+    "href": "https://nvidianews.nvidia.com/news/nvidia-blackwell-dgx-generative-ai-supercomputing?nvid=nv-int-csfg-569470",
+    "src": "nvidia-dgx-superpod-sfg-1920x1080.jpeg"
+  },
+  {
+    "title": "Apply for Early Access to New NVIDIA NeMo Microservices",
+    "type": "AI | Announcement",
+    "href": "//developer.nvidia.com/nemo-microservices-early-access?nvid=nv-int-csfg-410840",
+    "src": "nvidia-nemo-sfg-2560x1440.jpeg"
+  },
+  {
+    "title": "NVIDIA Combines Digital Twins With Real-Time AI for Industrial Automation",
+    "type": "Simulation | Blog",
+    "href": "https://blogs.nvidia.com/blog/ai-digital-twins-industrial-automation-demo",
+    "src": "gtc24-spring-metropolis-collage-ari.jpeg"
+  },
+  {
+    "title": "Blackwell Rack-Scale Architecture for Intense AI and HPC Workloads",
+    "type": "Data Center | Blog",
+    "href": "https://developer.nvidia.com/blog/nvidia-gb200-nvl72-delivers-trillion-parameter-llm-training-and-real-time-inference/",
+    "src": "grace-nvl72-1920x1080.jpeg"
+  },
+  {
+    "title": "NVIDIA Takes Machine Learning to the Next Level",
+    "type": "NVIDIA Keynote | Blog",
+    "href": "https://blogs.nvidia.com/blog/2023/08/29/hot-chips-dally-research/",
+    "src": "nvidia-hot-chips-2023-bill-dally-keynote-sfg.jpeg"
+  },
+  {
+    "title": "NVIDIA Isaac Taps Generative AI for Manufacturing and Logistics",
+    "type": "Robotics | Blog",
+    "href": "https://blogs.nvidia.com/blog/isaac-generative-ai-manufacturing-logistics/",
+    "src": "industrial-robotics-ari.jpeg"
+  },
+  {
+    "title": "NVIDIA DRIVE Thor Power the Future of Transportation",
+    "type": "Automotive | Announcement",
+    "href": "https://nvidianews.nvidia.com/news/nvidia-drive-powers-next-generation-transportation",
+    "src": "sfg-nvidia-drive-thor.jpeg"
+  }
+]

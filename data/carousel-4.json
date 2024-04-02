@@ -1,0 +1,110 @@
+{
+  "title": "Robotics and Edge Computing",
+  "desc": "The NVIDIA Jetson™ and Isaac™ platforms provide end-to-end solutions to develop and deploy AI-powered autonomous machines and edge computing applications across manufacturing, logistics, healthcare, smart cities, and retail.",
+  "quicklinks": [
+    {
+      "name": "Overview",
+      "url": "https://www.nvidia.com/en-in/edge-computing/"
+    },
+    {
+      "name": "Robotics Platform",
+      "url": "https://developer.nvidia.com/isaac"
+    },
+    {
+      "name": "Embedded Edge",
+      "url": "https://www.nvidia.com/en-in/autonomous-machines/"
+    },
+    {
+      "name": "Robotics Research",
+      "url": "https://www.nvidia.com/en-us/research/robotics/"
+    },
+    {
+      "name": "Isaac Simulation",
+      "url": "https://www.nvidia.com/en-in/autonomous-machines/"
+    },
+    {
+      "name": "NVIDIA IGX",
+      "url": "https://www.nvidia.com/en-in/archive/igx-2/"
+    },
+    {
+      "name": "NVIDIA-Certified Systems",
+      "url": "https://www.nvidia.com/en-in/data-center/products/certified-systems/"
+    },
+    {
+      "name": "Ecosystem Partners",
+      "url": "https://developer.nvidia.com/embedded/ecosystem"
+    }
+  ],
+  "carousel": [
+    {
+      "src": "industrial-robotics-ari.jpeg",
+      "href": "https://blogs.nvidia.com/blog/isaac-generative-ai-manufacturing-logistics/",
+      "type": "Robotics | Blog",
+      "title": "NVIDIA Isaac Taps Generative AI for Manufacturing and Logistics",
+      "desc": "Introducing new foundation models, a robot learning framework, AI workflow orchestration and robot perception tools."
+    },
+    {
+      "src": "osmo-sfg.jpeg",
+      "href": "https://developer.nvidia.com/blog/scale-ai-enabled-robotics-development-workloads-with-nvidia-osmo/",
+      "type": "Robotics | Blog",
+      "title": "Scale AI-Enabled Robotics Development Workloads With NVIDIA OSMO",
+      "desc": "This powerful new cloud-native compute orchestration service delivers a single pane of glass for scheduling and managing autonomous machine workloads."
+    },
+    {
+      "src": "johnson-johnson-medtech-to-build-ai-powered-digital-and-robotic-surgery-platform-sfg.jpeg",
+      "href": "https://blogs.nvidia.com/blog/johnson-and-johnson-medtech-ai-surgery/",
+      "type": "Robotics | Blog",
+      "title": "J&J to Build AI-Powered Digital and Robotic Surgery",
+      "desc": "Using NVIDIA AI and robotics to deliver real-time insights before, during, and after surgical procedures."
+    },
+    {
+      "src": "nvidia-metropolis-iva-microservices-sfg.jpeg",
+      "href": "https://developer.nvidia.com/blog/announcing-metropolis-microservices-on-nvidia-jetson-orin-for-rapid-edge-ai-development/",
+      "type": "Edge Computing | News",
+      "title": "Transform Far Edge Vision AI Development",
+      "desc": "NVIDIA introduces powerful microservices and APIs to bring edge AI to production faster than ever before."
+    },
+    {
+      "src": "ov-cptx-23-demo-aoi-digitalization-2560x1440.jpeg",
+      "href": "https://blogs.nvidia.com/blog/2023/05/28/electronics-giants-industrial-automation-nvidia-metropolis-for-factories/",
+      "type": "Manufacturing | Blog",
+      "title": "Introducing Metropolis for Factories",
+      "desc": "Learn how electronics giants tap into industrial automation with NVIDIA Metropolis for Factories."
+    },
+    {
+      "src": "jetson-orin-jaoi-module-sfg.jpeg",
+      "href": "https://developer.nvidia.com/blog/step-into-the-future-of-industrial-grade-edge-ai-with-nvidia-jetson-agx-orin-industrial/",
+      "type": "Robotics | Product",
+      "title": "The Future of Industrial-Grade Edge AI",
+      "desc": "Check out the rugged, power-efficient NVIDIA Jetson AGX Orin™ Industrial system-on-module."
+    },
+    {
+      "src": "nvidia-demo-teachman-digital-twin-sfg-2560x1440.jpeg",
+      "href": "https://blogs.nvidia.com/blog/2023/05/28/techman-robot-isaac-sim/",
+      "type": "Manufacturing | Blog",
+      "title": "Techman Robot Selects Isaac Sim for Automated Optical Inspection",
+      "desc": "The company is accelerating robotics-based inspection in automotive and electronics manufacturing."
+    },
+    {
+      "src": "nvidia-isaac-robotics-sfg-2560x1440.jpeg",
+      "href": "https://blogs.nvidia.com/blog/2023/05/28/isaac-amr-nova-orin-autonomous-mobile-robots/",
+      "type": "Robotics | Platform",
+      "title": "Introducing Isaac AMR",
+      "desc": "An integrated software stack designed for AI-enabled Autonomous Mobile Robots (AMRs) with edge to cloud workflow."
+    },
+    {
+      "src": "nvidia-jetson-orin-nano-developer-kit-sfg-2560x1440.jpeg",
+      "href": "https://developer.nvidia.com/blog/develop-ai-powered-robots-smart-vision-systems-and-more-with-nvidia-jetson-orin-nano-developer-kit/",
+      "type": "Robotics | Product",
+      "title": "NVIDIA® Jetson Orin Nano™ Developer Kit",
+      "desc": "Discover a new standard for creating entry-level AI-powered robots, smart drones, and intelligent cameras."
+    },
+    {
+      "src": "nvidia-embedded-ai-systems.jpeg",
+      "href": "https://www.nvidia.com/en-in/autonomous-machines/",
+      "type": "Robotics | Announcement",
+      "title": "Product development with advanced embedded AI systems.",
+      "desc": "Create with the most powerful AI computers for energy-efficient autonomous machines."
+    }
+  ]
+}

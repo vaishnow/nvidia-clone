@@ -1,0 +1,106 @@
+{
+  "title": "Design and Simulation",
+  "desc": "NVIDIA RTX™ and NVIDIA Omniverse™ deliver the performance to help professionals, creators, developers, and students worldwide enhance creative workflows and build, operate, and connect metaverse applications.",
+  "quicklinks": [
+    {
+      "name": "Shop",
+      "url": "https://www.nvidia.com/en-in/design-visualization/rtx/"
+    },
+    {
+      "name": "Newsroom",
+      "url": "https://blogs.nvidia.com/blog/category/pro-graphics/"
+    },
+    {
+      "name": "Professionals",
+      "url": "https://www.nvidia.com/en-in/design-visualization/"
+    },
+    {
+      "name": "Creators",
+      "url": "https://www.nvidia.com/en-in/omniverse/"
+    },
+    {
+      "name": "Developers",
+      "url": "https://developer.nvidia.com/rtx"
+    },
+    {
+      "name": "Researchers",
+      "url": "https://www.nvidia.com/en-us/research/"
+    },
+    {
+      "name": "XR",
+      "url": "https://www.nvidia.com/en-in/design-visualization/solutions/cloud-xr/"
+    }
+  ],
+  "carousel": [
+    {
+      "title": "NVIDIA Combines Digital Twins With Real-Time AI for Industrial Automation",
+      "href": "https://blogs.nvidia.com/blog/ai-digital-twins-industrial-automation-demo",
+      "src": "gtc24-spring-metropolis-collage-ari.jpeg",
+      "type": "Simulation | Blog",
+      "desc": "Train AI agents to optimize synchronization between robots and humans within their environment, enabling seamless navigation through unpredictable or complex events."
+    },
+    {
+      "title": "NVIDIA and Siemens Bring Immersive Visualization to Industrial Design and Manufacturing ",
+      "href": "https://blogs.nvidia.com/blog/siemens-immersive-visualization-generative-ai/",
+      "src": "sfg-seimens-nvidia-collaboration.jpeg",
+      "type": "Simulation | Blog",
+      "desc": "Siemens is driving a new era of industrial digitalization with Omniverse and generative AI integration across the Siemens Xcelerator portfolio."
+    },
+    {
+      "title": "NVIDIA Brings Omniverse to the Apple Vision Pro",
+      "href": "https://blogs.nvidia.com/blog/omniverse-apple-vision-pro/",
+      "src": "nvidia-omniverse-apple-vision-pro-sfg.jpeg",
+      "type": "AR / VR | Blog",
+      "desc": "New Omniverse Cloud technologies let developers beam interactive, OpenUSD industrial digital twins into spatial computing."
+    },
+    {
+      "title": "NVIDIA Unveils Blueprint for Building Next-Gen Data Centers",
+      "href": "https://blogs.nvidia.com/blog/omniverse-next-gen-data-center/",
+      "src": "data-center-clay-to-render-ari.jpeg",
+      "type": "Simulation | Product",
+      "desc": "NVIDIA GB200 NVL72 system digital twin supported by Ansys, Cadence, Motivair, and more."
+    },
+    {
+      "title": "NVIDIA 6G Research Cloud Platform Brings AI to Wireless",
+      "href": "https://nvidianews.nvidia.com/news/nvidia-unveils-6g-research-cloud-platform-to-advance-wireless-communications-with-ai",
+      "src": "6g-research-sfg-1920x1080.jpeg",
+      "type": "Simulation | Announcement",
+      "desc": "Ansys, Keysight, Nokia, and Samsung are among the first on NVIDIA 6G Research Cloud platform."
+    },
+    {
+      "title": "3D Renaissance Comes to Life With Latest OpenUSD Enhancements",
+      "href": "https://blogs.nvidia.com/blog/nuke-openusd-enhancements-3d-renaissance/",
+      "src": "ito-sfg-2560x1440.jpeg",
+      "type": "Simulation | Blog",
+      "desc": "The latest OpenUSD updates to Foundry Nuke enable users to tackle larger, more complex scenes with capabilities like enhanced geometry control and streamlined asset management."
+    },
+    {
+      "title": "Now Available: NVIDIA RTX 4500 Ada Generation",
+      "href": "https://www.nvidia.com/en-in/design-visualization/rtx-4500/",
+      "src": "rtx4500-2560x1440.jpeg",
+      "type": "Simulation | Product",
+      "desc": "The latest NVIDIA RTX™ 4500 GPU is now available for purchase from our channel partners."
+    },
+    {
+      "title": "Extended Cut: NVIDIA Showcases 3D Virtual Conferencing, Expands Maxine for Video Editing",
+      "href": "https://blogs.nvidia.com/blog/2023/08/08/maxine-3D-video-communications/",
+      "src": "nvidia-proviz-maxine-siggraph23-sfg.jpeg",
+      "type": "AI | Blog",
+      "desc": "NVIDIA's Research demo at SIGGRAPH presents 3D technology to power Maxine suite of tools. The production version now available in NVIDIA AI Enterprise."
+    },
+    {
+      "title": "NVIDIA Releases OptiX 8",
+      "href": "https://developer.nvidia.com/blog/flexible-and-powerful-ray-tracing-with-optix-8/",
+      "src": "optix-8-ari.jpeg",
+      "type": "Rendering | Blog",
+      "desc": "OptiX is a flexible, powerful ray-tracing application framework for the media and entertainment industry."
+    },
+    {
+      "title": "NVIDIA Accelerates Adoption of Universal 3D Language, OpenUSD",
+      "href": "https://nvidianews.nvidia.com/news/nvidia-omniverse-opens-portals-to-vast-worlds-of-openusd",
+      "src": "nvidia-omniverse-usd-everywhere-sfg.jpeg",
+      "type": "Simulation | Announcement",
+      "desc": "A major new roadmap has been announced for Universal Scene Description (OpenUSD) contributions, including generative AI Omniverse Cloud APIs to simplify OpenUSD workflows."
+    }
+  ]
+}

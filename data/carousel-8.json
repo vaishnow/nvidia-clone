@@ -1,0 +1,95 @@
+{
+  "title": "About NVIDIA",
+  "desc": "NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society.",
+  "quicklinks": [
+    {
+      "name": "NVIDIA GTC",
+      "url": "https://www.nvidia.com/gtc"
+    },
+    {
+      "name": "Careers",
+      "url": "https://www.nvidia.com/en-in/about-nvidia/careers/"
+    },
+    {
+      "name": "Newsroom",
+      "url": "https://nvidianews.nvidia.com/"
+    },
+    {
+      "name": "NVIDIA On-Demand",
+      "url": "https://www.nvidia.com/en-us/on-demand"
+    },
+    {
+      "name": "Leaders",
+      "url": "https://nvidianews.nvidia.com/bios"
+    },
+    {
+      "name": "Corporate Overview",
+      "url": "https://nvdam.widen.net/s/hskgjmdvwx/corporate-nvidia-in-brief-2023"
+    }
+  ],
+  "carousel": [
+    {
+      "src": "gtc24-spring-web-nv-hp-sfg-keynote-jhh-2889700.jpeg",
+      "href": "https://www.nvidia.com/gtc/",
+      "type": "NVIDIA GTC | Event",
+      "title": "Don’t Miss This Transformative Moment in AI",
+      "desc": "Watch Jensen Huang live on-stage as he shares AI advances that are shaping our future.\nMarch 18, 2024 | SAP Center in San Jose, CA."
+    },
+    {
+      "src": "sigg23-sfg-2560x1440.jpeg",
+      "href": "https://www.nvidia.com/en-us/events/siggraph/",
+      "type": "NVIDIA Keynote",
+      "title": "Pioneering Graphics for the AI Generation",
+      "desc": "Watch NVIDIA CEO Jensen Huang give an exclusive look at some of our newest breakthroughs, including award-winning research, OpenUSD developments, and the latest AI-powered solutions for content creation."
+    },
+    {
+      "src": "nvidia-hot-chips-2023-bill-dally-keynote-sfg.jpeg",
+      "href": "https://blogs.nvidia.com/blog/2023/08/29/hot-chips-dally-research/",
+      "type": "NVIDIA Keynote | Blog",
+      "title": "NVIDIA Takes Machine Learning to the Next Level",
+      "desc": "NVIDIA Chief Scientist Billy Dally’s Hot Chips keynote covers the dramatic gains in hardware performance that spawned generative AI and ideas for future speedups that will drive machine learning to new heights."
+    },
+    {
+      "src": "corporate-best-places-to-work-2024-ari.jpeg",
+      "href": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-place-work-2024/",
+      "type": "NVIDIA Life | Blog",
+      "title": "NVIDIA Ranks #2 in the Best Place to Work",
+      "desc": "Thanks to our employees, NVIDIA is once again one of the top places to work in the U.S., according to Glassdoor. Discover why it’s like no place you’ve ever worked."
+    },
+    {
+      "src": "generative-ai-ari.jpeg",
+      "href": "https://blogs.nvidia.com/blog/2023/07/13/generative-ai-for-industries/",
+      "type": "Generative AI | Blog",
+      "title": "Generative AI Opens New Era of Efficiency Across Industries",
+      "desc": "Discover how generative AI is impacting every industry—from renewable-energy forecasting to drug discovery and more."
+    },
+    {
+      "src": "nvidia-story.jpeg",
+      "href": "https://www.nvidia.com/en-in/about-nvidia/",
+      "type": "Corporate | Brochure",
+      "title": "Learn the NVIDIA Story",
+      "desc": "Our work is truly unique. Part science. Part art. Every breakthrough helps shape what's next."
+    },
+    {
+      "src": "nvidia-engine-of-ai.jpeg",
+      "href": "https://www.youtube.com/watch?v=jqdnOjOnoCY",
+      "type": "Corporate | Video",
+      "title": "Meet NVIDIA—The Engine of AI",
+      "desc": "From gaming to data science and climate change, our work is transforming everyday life."
+    },
+    {
+      "src": "nvidia-cnbc-generative-ai-sfg-2560x1440.jpeg",
+      "href": "https://blogs.nvidia.com/blog/2023/03/06/cnbc-charts-evolution-generative-ai/",
+      "type": "Company | Blog",
+      "title": "CNBC Charts NVIDIA’s Evolution From Gaming to Generative AI",
+      "desc": "Discover how we evolved from making gaming cards to powering the generative AI revolution."
+    },
+    {
+      "src": "nv-story-katja-sfg.jpeg",
+      "href": "https://blogs.nvidia.com/blog/2023/08/30/nvidia-life-katja-sirazitdinova/",
+      "type": "NVIDIA Life | Blog",
+      "title": "Breaking Barriers: Katja Codes Her Way to Success",
+      "desc": "Discover Katja Sirazitdinova’s inspiring journey to become a senior deep learning data scientist at NVIDIA and learn how she’s empowering women to pursue careers in tech."
+    }
+  ]
+}

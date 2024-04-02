@@ -1,0 +1,96 @@
+{
+  "title": "High-Performance Computing",
+  "desc": "High-performance computing (HPC) is the ability to process data and perform complex calculations at high speeds. HPC is one of the most essential tools fueling the advancement of computational science.",
+  "quicklinks": [
+    {
+      "name": "HPC Overview",
+      "url": "https://www.nvidia.com/en-in/high-performance-computing/"
+    },
+    {
+      "name": "SC22 Event",
+      "url": "https://www.nvidia.com/en-us/events/supercomputing/"
+    },
+    {
+      "name": "Supercomputing",
+      "url": "https://www.nvidia.com/en-us/lp/high-performance-computing/hpc-ai-cloud-computing-ebook/"
+    },
+    {
+      "name": "Healthcare",
+      "url": "https://www.nvidia.com/en-in/industries/healthcare-life-sciences/"
+    },
+    {
+      "name": "Public Sector",
+      "url": "https://www.nvidia.com/en-us/industries/global-public-sector/"
+    },
+    {
+      "name": "Energy",
+      "url": "https://www.nvidia.com/en-in/industries/energy/"
+    },
+    {
+      "name": "NVIDIA HPC SDK",
+      "url": "https://developer.nvidia.com/hpc-sdk"
+    },
+    {
+      "name": "NVIDIA Modulus",
+      "url": "https://developer.nvidia.com/modulus"
+    }
+  ],
+  "carousel": [
+    {
+      "src": "nvidia-nsf-nair-sfg.jpeg",
+      "href": "https://blogs.nvidia.com/blog/national-ai-research-resource-pilot/",
+      "type": "HPC | Announcement",
+      "title": "NVIDIA Joins Key Contributors in a National AI Research Resource Pilot",
+      "desc": "The U.S. National Science Foundation has launched the National Artificial Intelligence Research Resource pilot, with NVIDIA as a major contributor."
+    },
+    {
+      "src": "nvidia-ai-foundry-service-sfg-2560x1440.jpeg",
+      "href": "https://nvidianews.nvidia.com/news/nvidia-introduces-generative-ai-foundry-service-on-microsoft-azure-for-enterprises-and-startups-worldwide",
+      "type": "HPC | Announcement",
+      "title": "NVIDIA AI Foundry Service",
+      "desc": "Businesses can leverage this end-to-end solution for creating custom generative AI models to power enterprise applications."
+    },
+    {
+      "src": "earth2-ari.jpeg",
+      "href": "https://blogs.nvidia.com/blog/2023/07/03/climate-research-next-wave/",
+      "type": "HPC | Announcement",
+      "title": "NVIDIA Announces Earth-2 for Weather Prediction",
+      "desc": "Providing a path to simulate and visualize the global atmosphere at unprecedented speed and scale."
+    },
+    {
+      "src": "nvidia-hpc-quantum-sfg-2560x1440.jpeg",
+      "href": "https://nvidianews.nvidia.com/news/nvidia-announces-new-system-for-accelerated-quantum-classical-computing",
+      "type": "HPC | Announcement",
+      "title": "Announcing New System for Accelerated Quantum-Classical Computing",
+      "desc": "NVIDIA and Quantum Machines debut DGX Quantum-integrated architecture, using open-source CUDA Quantum software platform."
+    },
+    {
+      "src": "nvidia-hpc-cloud-computing.jpeg",
+      "href": "https://www.nvidia.com/en-us/lp/high-performance-computing/hpc-ai-cloud-computing-ebook/",
+      "type": "HPC | Resource",
+      "title": "The NVIDIA Framework for HPC",
+      "desc": "A new e-book shares best practices for system design, current trends, and expert insights."
+    },
+    {
+      "src": "nvidia-hpc-scientific-computing-edge.jpeg",
+      "href": "https://blogs.nvidia.com/blog/2022/11/14/hpc-at-the-edge/",
+      "type": "HPC | Announcement",
+      "title": "Solving HPC Problems at the Edge",
+      "desc": "NVIDIA Clara™ Holoscan, BlueField® DPUs, and MetroX®-3 enable streaming processing at the edge."
+    },
+    {
+      "src": "nvidia-hpc-data-center-operators.jpeg",
+      "href": "https://blogs.nvidia.com/blog/2022/11/14/omniverse-digital-twin-data-center/",
+      "type": "HPC | Announcement",
+      "title": "Bringing Digital Twin Simulation to HPC Data Center Operators",
+      "desc": "NVIDIA Omniverse™ lets designers, builders, and operators leverage the power of virtual worlds."
+    },
+    {
+      "src": "nvidia-lockheed-martin-climate-data.jpeg",
+      "href": "https://blogs.nvidia.com/blog/2022/11/14/climate-data-speed/",
+      "type": "HPC | Announcement",
+      "title": "Creating the Earth’s Digital Twin to Understand Climate Change",
+      "desc": "The National Oceanic and Atmospheric Administration has selected Lockheed Martin and NVIDIA."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Data Center and Cloud Computing",
+  "desc": "From the cloud to the office to the data center to the edge, NVIDIA provides solutions that deliver breakthrough performance on enterprise AI and HPC workloads at any scale, driving business decisions in real time and resulting in faster time to value.",
+  "quicklinks": [
+    {
+      "url": "https://www.nvidia.com/en-in/data-center/",
+      "name": "Data Center"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/data-center/gpu-cloud-computing/",
+      "name": "Cloud Computing"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/edge-computing/",
+      "name": "Edge Computing"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/launchpad/",
+      "name": "NVIDIA LaunchPad"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/data-center/products/ai-enterprise/",
+      "name": "NVIDIA AI Enterprise"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/data-center/dgx-systems/",
+      "name": "DGX Systems"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/data-center/products/certified-systems/",
+      "name": "NVIDIA-Certified Systems"
+    }
+  ],
+  "carousel": [
+    {
+      "title": "The New NVIDIA DGX SuperPOD—Powered by Grace Blackwell Superchips",
+      "desc": "The next-generation DGX SuperPOD processes massive trillion-parameter models for generative AI.",
+      "type": "Data Center | Announcement",
+      "href": "https://nvidianews.nvidia.com/news/nvidia-blackwell-dgx-generative-ai-supercomputing?nvid=nv-int-csfg-569470",
+      "src": "nvidia-dgx-superpod-sfg-1920x1080.jpeg"
+    },
+    {
+      "title": "Blackwell Rack-Scale Architecture for Intense AI and HPC Workloads",
+      "desc": "The NVIDIA GB200 NVL72 exascale computer enables real-time inference and training in a single rack.",
+      "type": "Data Center | Blog",
+      "href": "https://developer.nvidia.com/blog/nvidia-gb200-nvl72-delivers-trillion-parameter-llm-training-and-real-time-inference/",
+      "src": "grace-nvl72-1920x1080.jpeg"
+    },
+    {
+      "title": "Introducing the NVIDIA DGX B200",
+      "desc": "Powered by the NVIDIA Blackwell architecture, DGX B200 is a unified platform optimized for enterprise AI workloads.",
+      "type": "Data Center | Announcement",
+      "href": "https://www.nvidia.com/en-us/data-center/dgx-b200/?nvid=nv-int-csfg-733225",
+      "src": "nvidia-dgx-b200-sfg-2560x1440.jpeg"
+    },
+    {
+      "title": "Announcing NVIDIA Quantum Cloud-Computer Simulation Microservices",
+      "desc": "The new simulation platform will help scientists advance quantum computing and algorithm research.",
+      "type": "Data Center | Blog",
+      "href": "https://nvidianews.nvidia.com/news/nvidia-launches-cloud-quantum-computer-simulation-microservices",
+      "src": "quantum-computing-1920x1080.jpeg"
+    },
+    {
+      "title": "Introducing Equinix Private AI with NVIDIA DGX",
+      "desc": "Equinix Private AI with DGX lets enterprises worldwide easily acquire their own fully managed infrastructure for generative AI.",
+      "type": "Data Center | Announcement",
+      "href": "https://www.nvidia.com/en-us/data-center/equinix-private-ai-with-dgx/",
+      "src": "dgx-h100-pod-ari.jpeg"
+    },
+    {
+      "title": "One Giant Superchip for LLMs, Recommenders, and GNNs",
+      "desc": "Introducing the NVIDIA GH200 NVL32, a rack-scale solution for the largest AI models powered by NVIDIA GH200 Grace Hopper™ Superchips.",
+      "type": "Data Center | Blog",
+      "href": "https://developer.nvidia.com/blog/one-giant-superchip-for-llms-recommenders-and-gnns-introducing-nvidia-gh200-nvl32/",
+      "src": "aws-reinvent-grace-hopper-sfg-2560x1440.jpeg"
+    },
+    {
+      "title": "NVIDIA and Hugging Face Connect Developers to Gen AI Supercomputing",
+      "desc": "Developers can access NVIDIA DGX Cloud within the Hugging Face platform to train and tune advanced AI models.",
+      "type": "AI | Announcement",
+      "href": "https://nvidianews.nvidia.com/news/nvidia-and-hugging-face-to-connect-millions-of-developers-to-generative-ai-supercomputing?nvid=nv-int-cwmfg-628164#cid=sigg23_nv-int-cwmfg_en-us",
+      "src": "nv-dgx-cloud-hugging-face-sfg.jpeg"
+    },
+    {
+      "title": "NVIDIA Unveils GH200 Grace Hopper Superchip",
+      "desc": "A new Superchip with groundbreaking memory for the era of accelerated computing and generative AI.",
+      "type": "Data Center | Announcement",
+      "href": "https://nvidianews.nvidia.com/news/gh200-grace-hopper-superchip-with-hbm3e-memory",
+      "src": "nvidia-gh200-grace-hopper.jpeg"
+    },
+    {
+      "title": "NVIDIA AX800 Delivers 5G vRAN, AI Services on Cloud Infrastructure",
+      "desc": "New converged accelerator delivers high-performance 5G and AI on the same platform.",
+      "type": "Telecoms | Blog",
+      "href": "https://developer.nvidia.com/blog/nvidia-ax800-delivers-high-performance-5g-vran-and-ai-services-on-one-common-cloud-infrastructure/",
+      "src": "ax800-ari.jpeg"
+    },
+    {
+      "title": "NVIDIA H100 GPU in Multiple Clouds, DGX H100 Coming Soon to Enterprises",
+      "desc": "NVIDIA and partners bring Hopper-based offerings to market on the world’s most powerful AI computing platform.",
+      "type": "Data Center | Announcement",
+      "href": "https://nvidianews.nvidia.com/news/nvidia-hopper-gpus-expand-reach-as-demand-for-ai-grows",
+      "src": "nvidia-hopper-dgx-h100-sfg-2560x1440.jpeg"
+    }
+  ]
+}

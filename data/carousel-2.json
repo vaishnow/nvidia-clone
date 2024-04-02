@@ -1,0 +1,96 @@
+{
+  "title": "Artificial Intelligence",
+  "desc": "AI is powering change in every industry. From generative AI and speech recognition to medical imaging and improved supply chain management, AI is providing enterprises the compute power, tools, and algorithms their teams need to do their life's work.",
+  "quicklinks": [
+    {
+      "url": "https://www.nvidia.com/en-in/ai-data-science/",
+      "name": "Overview"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/data-analytics/",
+      "name": "Data Analytics"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/machine-learning/",
+      "name": "Machine Learning"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/prediction-forecasting/",
+      "name": "Predictive Analytics"
+    },
+    {
+      "url": "https://developer.nvidia.com/nvidia-merlin",
+      "name": "Recommender Systems"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/ai-data-science/products/riva/",
+      "name": "Speech AI"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/data-science/apache-spark-3/",
+      "name": "Apache Spark"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/deep-learning-ai/software/rapids/",
+      "name": "RAPIDS"
+    }
+  ],
+  "carousel": [
+    {
+      "src": "nvidia-nemo-sfg-2560x1440.jpeg",
+      "href": "https://developer.nvidia.com/nemo-microservices-early-access?nvid=nv-int-csfg-410840",
+      "type": "AI | Announcement",
+      "title": "Apply for Early Access to New NVIDIA NeMo Microservices",
+      "desc": "Customize and evaluate generative AI models, while supporting retrieval-augmented generation in applications."
+    },
+    {
+      "src": "maxine-jugo-gtc24-corp-blog.jpeg",
+      "href": "https://blogs.nvidia.com/blog/maxine-developer-video-conferencing/",
+      "type": "AI | Blog",
+      "title": "NVIDIA Maxine to Transform $10B Video Conferencing Industry",
+      "desc": "Easily integrate AI features for creating personalized and engaging video conferencing."
+    },
+    {
+      "src": "nvidia-nemo-sfg-2560x1440-new.jpeg",
+      "href": "https://developer.nvidia.com/blog/how-to-take-a-rag-application-from-pilot-to-production-in-four-steps/",
+      "type": "AI | Announcement",
+      "title": "Build Production-Grade retrieval-augmented generation",
+      "desc": "Unlock your business data with generative AI and enable better business insights in real time."
+    },
+    {
+      "src": "data-science-workstation-tech-blog-ai-workbench-1920x1080.png",
+      "href": "https://www.nvidia.com/en-us/deep-learning-ai/solutions/data-science/workbench/",
+      "type": "AI | Announcement",
+      "title": "Simplify Enterprise AI Workflows with AI Workbench",
+      "desc": "Experience fast and reliable GPU environment setup and the freedom to collaborate across heterogeneous environments regardless of skill-level."
+    },
+    {
+      "src": "bionemo-foundation-models-ari.jpeg",
+      "href": "https://blogs.nvidia.com/blog/bionemo-ai-drug-discovery-foundation-models-microservices/",
+      "type": "Generative AI/LLMs | Blog",
+      "title": "BioNeMo Expands With New Foundation Models for Drug Discovery",
+      "desc": "Cadence OpenEye, Flagship Pioneering, and Iambic are among more than 100 companies using NVIDIA BioNeMo to advance drug discovery."
+    },
+    {
+      "src": "cuopt-sfg-2560x1440.jpeg",
+      "href": "https://blogs.nvidia.com/blog/cuopt-route-optimization-metropolis-omniverse/",
+      "type": "AI | Blog",
+      "title": "NVIDIA Scores 23 World Records for Route Optimization",
+      "desc": "NVIDIA cuOpt powers AI-driven logistics for Kawasaki Heavy Industries and SyncTwin."
+    },
+    {
+      "src": "morpheus-corp-blog-sfg.jpeg",
+      "href": "https://blogs.nvidia.com/blog/generative-ai-for-software-security",
+      "type": "Cybersecurity | Blog",
+      "title": "Supercharge Software Security With Retrieval-Augmented Generation",
+      "desc": "Address common vulnerabilities and exposures in minutes instead of days with generative AI and RAG."
+    },
+    {
+      "src": "nvidia-metropolis-agent-sfg.jpeg",
+      "href": "https://www.nvidia.com/en-us/solutions/robotics-and-edge-computing/vision-ai/visual-insight-agent/",
+      "type": "Generative AI | Product",
+      "title": "Introducing NVIDIA Visual Insight Agent (VIA)",
+      "desc": "NVIDIA VIA gives you a powerful way to build AI agents that help summarize, search, and extract actionable insights from videos and images using natural language."
+    }
+  ]
+}

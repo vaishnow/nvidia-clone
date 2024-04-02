@@ -1,0 +1,110 @@
+{
+  "title": "Gaming and Creating",
+  "desc": "NVIDIA GeForce RTX powers the world’s fastest GPUs and the ultimate platform for gamers and creators. Enjoy beautiful ray tracing, AI-powered DLSS, and much more in games and applications, on your desktop, laptop, in the cloud, or in your living room.",
+  "quicklinks": [
+    {
+      "url": "https://www.nvidia.com/en-in/geforce/graphics-cards/",
+      "name": "Graphics Cards"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/geforce/gaming-laptops/",
+      "name": "Laptops"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/geforce/technologies/dlss/",
+      "name": "DLSS"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/geforce/technologies/reflex/",
+      "name": "Reflex"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/studio/",
+      "name": "NVIDIA Studio"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/geforce/geforce-experience/",
+      "name": "GeForce Experience"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/geforce/game-ready-drivers/",
+      "name": "Game Ready Drivers"
+    },
+    {
+      "url": "https://www.nvidia.com/en-in/geforce/products/g-sync-monitors/",
+      "name": "G-SYNC"
+    }
+  ],
+  "carousel": [
+    {
+      "title": "NVIDIA ACE",
+      "desc": "Digital human technologies bring AI characters to life.",
+      "type": "AI | Announcement",
+      "href": "https://www.nvidia.com/en-in/geforce/news/nvidia-ace-gdc-gtc-2024-ai-character-game-and-app-demo-videos/",
+      "src": "nvidia-ace-covert-protocolnv-sfg-2560x1440.jpeg"
+    },
+    {
+      "title": "NVIDIA DLSS Boosts Performance",
+      "desc": "DLSS is boosting performance in over 500 games &amp; apps and coming to your favorite games.",
+      "type": "Games | News",
+      "href": "https://www.nvidia.com/en-in/geforce/news/dlss-3-outpost-infinity-siege-diablo-iv-ray-tracing/",
+      "src": "dlss-nv-sfg-2560x1440.jpeg"
+    },
+    {
+      "title": "RTX. It's On.",
+      "desc": "NVIDIA DLSS 3, DLAA and Reflex available now.",
+      "type": "Games | News",
+      "href": "https://www.nvidia.com/en-in/geforce/news/dlss-3-horizon-forbidden-west/",
+      "src": "horizon-nv-sfg-2560x1440.jpeg"
+    },
+    {
+      "title": "Frames Win Games",
+      "desc": "GeForce RTX 40 Series and NVIDIA Reflex.",
+      "type": "Games | News",
+      "href": "https://www.nvidia.com/en-in/geforce/news/reflex-escape-from-tarkov-arena/",
+      "src": "reflex-nv-sfg-2560x1440.jpeg"
+    },
+    {
+      "title": "Diablo IV is RTX On",
+      "desc": "Ray tracing and DLSS 3 available now.",
+      "type": "Games | News",
+      "href": "https://www.nvidia.com/en-in/geforce/news/diablo-iv-ray-tracing-update-out-now/",
+      "src": "diablo-iv-new-nv-sfg-295x166-2x.jpeg"
+    },
+    {
+      "title": "GeForce RTX 40 Series Laptops",
+      "desc": "Learn more about the world's fastest laptops for gamers and creators.",
+      "type": "Gaming Hardware | News",
+      "href": "https://www.nvidia.com/en-in/geforce/laptops/",
+      "src": "geforce-ada-laptop-learn-more-nv-sfg-295x166-2x.jpeg"
+    },
+    {
+      "title": "RTX-Accelerated Live Streaming",
+      "desc": "Learn more about the new Twitch Enhanced Broadcasting, powered by GeForce RTX.",
+      "type": "Games | News",
+      "href": "https://blogs.nvidia.com/blog/twitch-multiencode-av1-livestreaming/",
+      "src": "twitch-sfg.jpeg"
+    },
+    {
+      "title": "NVIDIA at GDC 2024",
+      "desc": "Join us March 18–22 to discover the latest generative AI and RTX technologies.",
+      "type": "Games | Event",
+      "href": "https://www.nvidia.com/en-us/events/gdc/",
+      "src": "nvidia-gdc-2024-game-dev-sfg-2560x1440.jpeg"
+    },
+    {
+      "title": "500 RTX Games and Apps!",
+      "desc": "Over 500 RTX games and apps have revolutionized the ways we play and create with ray tracing, DLSS and other AI-powered technologies. Check out RTX in today's biggest hits.",
+      "type": "Games | News",
+      "href": "https://www.nvidia.com/en-in/geforce/news/rtx500-celebration-dlss-ray-tracing-new-games-win-prizes/",
+      "src": "rtx500.jpeg"
+    },
+    {
+      "title": "In the NVIDIA Studio",
+      "desc": "Extraordinary artists, inspiring art, and creator news—every week.",
+      "type": "Creatives | News",
+      "href": "https://blogs.nvidia.com/blog/studio-gtc-ai-studio-driver/",
+      "src": "nvidia-studio-itns-jan-driver-01032023-nv-homepage-2560x1440.jpeg"
+    }
+  ]
+}

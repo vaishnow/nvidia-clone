@@ -1,0 +1,1449 @@
+{
+  "navmenu": [
+    {
+      "name": "Products",
+      "dropdowns": [
+        {
+          "name": "Hardware",
+          "lists": [
+            {
+              "listhead": "Gaming and Creating",
+              "listitems": [
+                {
+                  "name": "GeForce Graphics Cards",
+                  "url": "https://www.nvidia.com/en-in/geforce/graphics-cards/"
+                },
+                {
+                  "name": "Laptops",
+                  "url": "https://www.nvidia.com/en-in/geforce/laptops/"
+                },
+                {
+                  "name": "G-SYNC Monitors",
+                  "url": "https://www.nvidia.com/en-in/geforce/products/g-sync-monitors/"
+                },
+                {
+                  "name": "Studio",
+                  "url": "https://www.nvidia.com/en-in/studio/laptops-desktops/"
+                }
+              ]
+            },
+            {
+              "listhead": "Laptops and Workstations",
+              "listitems": [
+                {
+                  "name": "Laptops",
+                  "url": "https://www.nvidia.com/en-in/geforce/laptops/"
+                },
+                {
+                  "name": "NVIDIA RTX in Desktop Workstations",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/quadro-desktop-gpus/"
+                },
+                {
+                  "name": "NVIDIA RTX in Professional Laptops",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/rtx-professional-laptops/"
+                },
+                {
+                  "name": "NVIDIA RTX-Powered AI Workstations",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/workstations/"
+                }
+              ]
+            },
+            {
+              "listhead": "Cloud and Data Center",
+              "listitems": [
+                {
+                  "name": "Overview",
+                  "url": "https://www.nvidia.com/en-in/data-center/"
+                },
+                {
+                  "name": "Grace CPU",
+                  "url": "https://www.nvidia.com/en-in/data-center/grace-cpu/"
+                },
+                {
+                  "name": "DGX Platform",
+                  "url": "https://www.nvidia.com/en-in/data-center/dgx-platform/"
+                },
+                {
+                  "name": "EGX Platform",
+                  "url": "https://www.nvidia.com/en-in/data-center/products/egx/"
+                },
+                {
+                  "name": "IGX Platform",
+                  "url": "https://www.nvidia.com/en-in/edge-computing/products/igx/"
+                },
+                {
+                  "name": "HGX Platform",
+                  "url": "https://www.nvidia.com/en-in/data-center/hgx/"
+                },
+                {
+                  "name": "NVIDIA MGX",
+                  "url": "https://www.nvidia.com/en-in/data-center/products/mgx/"
+                },
+                {
+                  "name": "NVIDIA OVX",
+                  "url": "https://www.nvidia.com/en-in/omniverse/platform/ovx/"
+                },
+                {
+                  "name": "DRIVE Sim",
+                  "url": "https://www.nvidia.com/en-in/self-driving-cars/simulation/"
+                }
+              ]
+            },
+            {
+              "listhead": "Networking",
+              "listitems": [
+                {
+                  "name": "Overview",
+                  "url": "https://www.nvidia.com/en-in/networking/"
+                },
+                {
+                  "name": "DPUs and SuperNICs",
+                  "url": "https://www.nvidia.com/en-in/networking/products/data-processing-unit/"
+                },
+                {
+                  "name": "Ethernet",
+                  "url": "https://www.nvidia.com/en-in/networking/products/ethernet/"
+                },
+                {
+                  "name": "InfiniBand",
+                  "url": "https://www.nvidia.com/en-in/networking/products/infiniband/"
+                }
+              ]
+            },
+            {
+              "listhead": "GPUs",
+              "listitems": [
+                {
+                  "name": "GeForce",
+                  "url": "https://www.nvidia.com/en-in/geforce/graphics-cards/"
+                },
+                {
+                  "name": "NVIDIA RTX / Quadro",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/rtx/"
+                },
+                {
+                  "name": "Data Center",
+                  "url": "https://www.nvidia.com/en-in/data-center/technologies/hopper-architecture/"
+                }
+              ]
+            },
+            {
+              "listhead": "Embedded Systems",
+              "listitems": [
+                {
+                  "name": "Jetson",
+                  "url": "https://www.nvidia.com/en-in/autonomous-machines/embedded-systems/"
+                },
+                {
+                  "name": "DRIVE AGX",
+                  "url": "https://www.nvidia.com/en-in/self-driving-cars/hardware/"
+                },
+                {
+                  "name": "Clara AGX",
+                  "url": "https://www.nvidia.com/en-in/clara/intelligent-medical-instruments/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Software",
+          "lists": [
+            {
+              "listhead": "Application Frameworks",
+              "listitems": [
+                {
+                  "name": "AI Inference - Triton",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/products/triton-inference-server/"
+                },
+                {
+                  "name": "Automotive - DRIVE",
+                  "url": "https://www.nvidia.com/en-in/self-driving-cars/software/"
+                },
+                {
+                  "name": "Cloud-AI Video Streaming - Maxine",
+                  "url": "https://developer.nvidia.com/MAXINE"
+                },
+                {
+                  "name": "Computational Lithography - cuLitho",
+                  "url": "https://developer.nvidia.com/culitho"
+                },
+                {
+                  "name": "Cybersecurity - Morpheus",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/products/morpheus/"
+                },
+                {
+                  "name": "Data Analytics - RAPIDS",
+                  "url": "https://www.nvidia.com/en-in/deep-learning-ai/software/rapids/"
+                },
+                {
+                  "name": "Generative AI - NeMo",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/generative-ai/nemo-framework/"
+                },
+                {
+                  "name": "Healthcare - Clara",
+                  "url": "https://www.nvidia.com/en-in/clara/"
+                },
+                {
+                  "name": "High-Performance Computing",
+                  "url": "https://developer.nvidia.com/hpc-sdk"
+                },
+                {
+                  "name": "Intelligent Video Analytics - Metropolis",
+                  "url": "https://www.nvidia.com/en-in/autonomous-machines/intelligent-video-analytics-platform/"
+                },
+                {
+                  "name": "Logistics and Route Optimization - cuOpt",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/products/cuopt/"
+                },
+                {
+                  "name": "Metaverse Applications - Omniverse",
+                  "url": "https://developer.nvidia.com/nvidia-omniverse-platform"
+                },
+                {
+                  "name": "Recommender Systems - Merlin",
+                  "url": "https://developer.nvidia.com/nvidia-merlin"
+                },
+                {
+                  "name": "Robotics - Isaac",
+                  "url": "https://developer.nvidia.com/isaac-ros"
+                },
+                {
+                  "name": "Speech AI - Riva",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/products/riva/"
+                },
+                {
+                  "name": "Telecommunications - Aerial",
+                  "url": "https://developer.nvidia.com/aerial-sdk"
+                }
+              ]
+            },
+            {
+              "listhead": "Apps and Tools",
+              "listitems": [
+                {
+                  "name": "NGC Software Catalog",
+                  "url": "https://www.nvidia.com/en-in/gpu-cloud/"
+                },
+                {
+                  "name": "3D Workflows - Omniverse",
+                  "url": "https://www.nvidia.com/en-in/omniverse/"
+                },
+                {
+                  "name": "Data Center",
+                  "url": "https://www.nvidia.com/en-us/data-center/software/"
+                },
+                {
+                  "name": "GPU Monitoring",
+                  "url": "https://developer.nvidia.com/dcgm"
+                },
+                {
+                  "name": "NVIDIA RTX Experience",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/software/rtx-experience/"
+                },
+                {
+                  "name": "NVIDIA RTX Desktop Manager",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/software/rtx-desktop-manager/"
+                },
+                {
+                  "name": "RTX Accelerated Creative Apps",
+                  "url": "https://www.nvidia.com/en-in/studio/software/"
+                },
+                {
+                  "name": "Video Conferencing",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/software/broadcast-app/"
+                },
+                {
+                  "name": "AI Workbench",
+                  "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/data-science/workbench/"
+                }
+              ]
+            },
+            {
+              "listhead": "Gaming and Creating",
+              "listitems": [
+                {
+                  "name": "GeForce NOW Cloud Gaming",
+                  "url": "https://www.nvidia.com/en-us/geforce-now/"
+                },
+                {
+                  "name": "GeForce Experience",
+                  "url": "https://www.nvidia.com/en-in/geforce/geforce-experience/"
+                },
+                {
+                  "name": "NVIDIA Broadcast App",
+                  "url": "https://www.nvidia.com/en-in/geforce/broadcasting/"
+                },
+                {
+                  "name": "Animation - Machinima",
+                  "url": "https://www.nvidia.com/en-in/geforce/machinima/"
+                },
+                {
+                  "name": "Modding - RTX Remix",
+                  "url": "https://www.nvidia.com/en-in/geforce/rtx-remix/"
+                }
+              ]
+            },
+            {
+              "listhead": "Infrastructure",
+              "listitems": [
+                {
+                  "name": "AI Enterprise Suite",
+                  "url": "https://www.nvidia.com/en-in/data-center/products/ai-enterprise-suite/"
+                },
+                {
+                  "name": "Cloud Native Support",
+                  "url": "https://developer.nvidia.com/egx-stack"
+                },
+                {
+                  "name": "Cluster Management",
+                  "url": "https://developer.nvidia.com/cluster-management"
+                },
+                {
+                  "name": "Edge Deployment Management",
+                  "url": "https://www.nvidia.com/en-in/data-center/products/fleet-command/"
+                },
+                {
+                  "name": "IO Acceleration",
+                  "url": "https://www.nvidia.com/en-in/data-center/magnum-io/"
+                },
+                {
+                  "name": "Networking",
+                  "url": "https://www.nvidia.com/en-in/networking/products/software/"
+                },
+                {
+                  "name": "Virtual GPU",
+                  "url": "https://www.nvidia.com/en-us/data-center/virtual-solutions/"
+                }
+              ]
+            },
+            {
+              "listhead": "Cloud Services",
+              "listitems": [
+                {
+                  "name": "Base Command",
+                  "url": "https://www.nvidia.com/en-in/data-center/base-command/"
+                },
+                {
+                  "name": "BioNeMo",
+                  "url": "https://www.nvidia.com/en-in/clara/bionemo/"
+                },
+                {
+                  "name": "NeMo",
+                  "url": "https://www.nvidia.com/en-in/gpu-cloud/nemo-llm-service/"
+                },
+                {
+                  "name": "Picasso",
+                  "url": "https://www.nvidia.com/en-in/gpu-cloud/picasso/"
+                },
+                {
+                  "name": "Private Registry",
+                  "url": "https://docs.nvidia.com/ngc/ngc-private-registry-user-guide/index.html"
+                },
+                {
+                  "name": "Omniverse",
+                  "url": "https://www.nvidia.com/en-in/omniverse/cloud/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solutions",
+      "lists": [
+        {
+          "listhead": "Artificial Intelligence",
+          "listitems": [
+            {
+              "name": "Overview",
+              "url": "https://www.nvidia.com/en-in/ai/"
+            },
+            {
+              "name": "AI Platform",
+              "url": "https://www.nvidia.com/en-in/ai-data-science/"
+            },
+            {
+              "name": "AI Inference",
+              "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/inference-platform/"
+            },
+            {
+              "name": "AI Workflows",
+              "url": "https://www.nvidia.com/en-in/ai-data-science/ai-workflows/"
+            },
+            {
+              "name": "Conversational AI",
+              "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/conversational-ai/"
+            },
+            {
+              "name": "Data Analytics",
+              "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/data-analytics/"
+            },
+            {
+              "name": "Generative AI",
+              "url": "https://www.nvidia.com/en-in/ai-data-science/generative-ai/"
+            },
+            {
+              "name": "Machine Learning",
+              "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/machine-learning/"
+            },
+            {
+              "name": "Prediction and Forecasting",
+              "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/prediction-forecasting/"
+            },
+            {
+              "name": "Speech AI",
+              "url": "https://www.nvidia.com/en-in/ai-data-science/solutions/speech-ai/"
+            }
+          ]
+        },
+        {
+          "listhead": "Data Center and Cloud Computing",
+          "listitems": [
+            {
+              "name": "Overview",
+              "url": "https://www.nvidia.com/en-in/data-center/"
+            },
+            {
+              "name": "Accelerated Computing for Enterprise IT",
+              "url": "https://www.nvidia.com/en-in/data-center/solutions/accelerated-computing/"
+            },
+            {
+              "name": "Cloud Computing",
+              "url": "https://www.nvidia.com/en-in/data-center/gpu-cloud-computing/"
+            },
+            {
+              "name": "Colocation",
+              "url": "https://www.nvidia.com/en-in/data-center/colocation-partners/"
+            },
+            {
+              "name": "MLOps",
+              "url": "https://www.nvidia.com/en-in/data-center/solutions/mlops/"
+            },
+            {
+              "name": "Networking",
+              "url": "https://www.nvidia.com/en-in/networking/"
+            },
+            {
+              "name": "Virtualization",
+              "url": "https://www.nvidia.com/en-in/data-center/virtual-solutions/"
+            }
+          ]
+        },
+        {
+          "listhead": "Design and Simulation",
+          "listitems": [
+            {
+              "name": "Overview",
+              "url": "https://www.nvidia.com/en-in/design-visualization/"
+            },
+            {
+              "name": "3D Avatars",
+              "url": "https://developer.nvidia.com/omniverse/ace"
+            },
+            {
+              "name": "Augmented and Virtual Reality",
+              "url": "https://www.nvidia.com/en-in/design-visualization/solutions/quadro-vr/"
+            },
+            {
+              "name": "Digital Twins",
+              "url": "https://www.nvidia.com/en-in/omniverse/solutions/digital-twins/"
+            },
+            {
+              "name": "Engineering Simulation",
+              "url": "https://www.nvidia.com/en-in/design-visualization/solutions/engineering-simulation/"
+            },
+            {
+              "name": "Rendering",
+              "url": "https://www.nvidia.com/en-in/design-visualization/solutions/rendering/"
+            }
+          ]
+        },
+        {
+          "listhead": "Robotics and Edge Computing",
+          "listitems": [
+            {
+              "name": "Overview",
+              "url": "https://www.nvidia.com/en-in/solutions/robotics-and-edge-computing/"
+            },
+            {
+              "name": "Robotics",
+              "url": "https://www.nvidia.com/en-in/deep-learning-ai/industries/robotics/"
+            },
+            {
+              "name": "Edge Computing",
+              "url": "https://www.nvidia.com/en-in/edge-computing/"
+            },
+            {
+              "name": "Vision AI",
+              "url": "https://www.nvidia.com/en-in/autonomous-machines/intelligent-video-analytics-platform/"
+            }
+          ]
+        },
+        {
+          "listhead": "High-Performance Computing",
+          "listitems": [
+            {
+              "name": "Overview",
+              "url": "https://www.nvidia.com/en-in/high-performance-computing/"
+            },
+            {
+              "name": "HPC and AI",
+              "url": "https://www.nvidia.com/en-in/high-performance-computing/hpc-and-ai/"
+            },
+            {
+              "name": "Scientific Visualization",
+              "url": "https://www.nvidia.com/en-in/high-performance-computing/scientific-visualization/"
+            },
+            {
+              "name": "Simulation and Modeling",
+              "url": "https://www.nvidia.com/en-in/high-performance-computing/simulation-and-modeling/"
+            },
+            {
+              "name": "Quantum Computing",
+              "url": "https://www.nvidia.com/en-in/solutions/quantum-computing/"
+            }
+          ]
+        },
+        {
+          "listhead": "Self-Driving Vehicles",
+          "listitems": [
+            {
+              "name": "Overview",
+              "url": "https://www.nvidia.com/en-in/self-driving-cars/"
+            },
+            {
+              "name": "In-Vehicle Computing",
+              "url": "https://www.nvidia.com/en-in/self-driving-cars/in-vehicle-computing/"
+            },
+            {
+              "name": "Infrastructure",
+              "url": "https://www.nvidia.com/en-in/self-driving-cars/infrastructure/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Industries",
+      "lists": [
+        {
+          "listhead": "Industries",
+          "listitems": [
+            {
+              "name": "Overview",
+              "url": "https://www.nvidia.com/en-in/industries/"
+            },
+            {
+              "name": "Architecture, Engineering, Construction & Operations",
+              "url": "https://www.nvidia.com/en-in/industries/aec/"
+            },
+            {
+              "name": "Automotive",
+              "url": "https://www.nvidia.com/en-in/industries/automotive/"
+            },
+            {
+              "name": "Consumer Internet",
+              "url": "https://www.nvidia.com/en-in/industries/consumer-internet/"
+            },
+            {
+              "name": "Cybersecurity",
+              "url": "https://www.nvidia.com/en-in/industries/cybersecurity/"
+            },
+            {
+              "name": "Energy",
+              "url": "https://www.nvidia.com/en-in/industries/energy/"
+            },
+            {
+              "name": "Financial Services",
+              "url": "https://www.nvidia.com/en-in/industries/finance/"
+            },
+            {
+              "name": "Healthcare and Life Sciences",
+              "url": "https://www.nvidia.com/en-in/industries/healthcare-life-sciences/"
+            },
+            {
+              "name": "Higher Education",
+              "url": "https://www.nvidia.com/en-in/deep-learning-ai/industries/higher-education-research/"
+            },
+            {
+              "name": "Game Development",
+              "url": "https://www.nvidia.com/en-in/industries/game-development/"
+            },
+            {
+              "name": "Industrial Sector",
+              "url": "https://www.nvidia.com/en-in/industries/industrial-sector/"
+            },
+            {
+              "name": "Manufacturing",
+              "url": "https://www.nvidia.com/en-in/industries/manufacturing/"
+            },
+            {
+              "name": "Media and Entertainment",
+              "url": "https://www.nvidia.com/en-in/industries/media-and-entertainment/"
+            },
+            {
+              "name": "Global Public Sector",
+              "url": "https://www.nvidia.com/en-us/industries/global-public-sector/"
+            },
+            {
+              "name": "Restaurants",
+              "url": "https://www.nvidia.com/en-in/industries/restaurants/"
+            },
+            {
+              "name": "Retail and CPG",
+              "url": "https://www.nvidia.com/en-in/industries/retail/"
+            },
+            {
+              "name": "Robotics",
+              "url": "https://www.nvidia.com/en-in/deep-learning-ai/industries/robotics/"
+            },
+            {
+              "name": "Smart Cities",
+              "url": "https://www.nvidia.com/en-in/industries/smart-cities/"
+            },
+            {
+              "name": "Supercomputing",
+              "url": "https://www.nvidia.com/en-in/industries/supercomputing/"
+            },
+            {
+              "name": "Telecommunications",
+              "url": "https://www.nvidia.com/en-in/industries/telecommunications/"
+            },
+            {
+              "name": "Transportation",
+              "url": "https://www.nvidia.com/en-in/industries/transportation/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "For You",
+      "dropdowns": [
+        {
+          "name": "Creatives/Designers",
+          "listitems": [
+            {
+              "listheads": "NVIDIA Studio",
+              "selection1": [
+                {
+                  "name": "Overview",
+                  "url": "https://www.nvidia.com/en-in/studio/"
+                },
+                {
+                  "name": "Accelerated Apps",
+                  "url": "https://www.nvidia.com/en-in/studio/software/"
+                },
+                {
+                  "name": "Products",
+                  "url": "https://www.nvidia.com/en-in/studio/laptops-desktops/"
+                },
+                {
+                  "name": "Compare",
+                  "url": "https://www.nvidia.com/en-in/studio/compare-gpus/"
+                },
+                {
+                  "name": "Shop",
+                  "url": "https://www.nvidia.com/en-in/studio/products/#shop-products"
+                }
+              ]
+            },
+            {
+              "listheads": "Industries",
+              "selection1": [
+                {
+                  "name": "Media and Entertainment",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/industries/media-entertainment/"
+                },
+                {
+                  "name": "Manufacturing",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/industries/manufacturing/"
+                },
+                {
+                  "name": "Architecture, Engineering, and Construction",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/industries/architecture-engineering-construction/"
+                },
+                {
+                  "name": "All Industries >",
+                  "url": "https://www.nvidia.com/en-in/industries/"
+                }
+              ]
+            },
+            {
+              "listheads": "Solutions",
+              "selection1": [
+                {
+                  "name": "Data Center/Cloud",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/quadro-servers/rtx/"
+                },
+                {
+                  "name": "Laptops/Desktops",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/quadro/"
+                },
+                {
+                  "name": "Augmented and Virtual Reality",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/solutions/quadro-vr/"
+                },
+                {
+                  "name": "Multi-Display",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/solutions/quadro-display-desktop-management/"
+                },
+                {
+                  "name": "Rendering",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/solutions/rendering/"
+                },
+                {
+                  "name": "3D Collaboration",
+                  "url": "https://www.nvidia.com/en-in/omniverse/"
+                },
+                {
+                  "name": "Graphics Virtualization",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/virtual-workstation/"
+                },
+                {
+                  "name": "Engineering Simulation",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/solutions/engineering-simulation/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Data Scientists",
+          "listitems": [
+            {
+              "listheads": "Industries",
+              "selection1": [
+                {
+                  "name": "Financial Services",
+                  "url": "https://www.nvidia.com/en-in/industries/finance/"
+                },
+                {
+                  "name": "Consumer Internet",
+                  "url": "https://www.nvidia.com/en-in/industries/consumer-internet/"
+                },
+                {
+                  "name": "Healthcare",
+                  "url": "https://www.nvidia.com/en-in/industries/healthcare-life-sciences/"
+                },
+                {
+                  "name": "Higher Education",
+                  "url": "https://www.nvidia.com/en-us/deep-learning-ai/industries/higher-education-research/"
+                },
+                {
+                  "name": "Retail",
+                  "url": "https://www.nvidia.com/en-in/industries/retail/"
+                },
+                {
+                  "name": "Public Sector",
+                  "url": "https://www.nvidia.com/en-us/industries/public-sector/"
+                },
+                {
+                  "name": "All Industries >",
+                  "url": "https://www.nvidia.com/en-in/industries/"
+                }
+              ]
+            },
+            {
+              "listheads": "Solutions",
+              "selection1": [
+                {
+                  "name": "AI Inference",
+                  "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/inference-platform/"
+                },
+                {
+                  "name": "AI Workflows",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/ai-workflows/"
+                },
+                {
+                  "name": "Conversational AI",
+                  "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/conversational-ai/"
+                },
+                {
+                  "name": "Data Analytics",
+                  "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/data-analytics/"
+                },
+                {
+                  "name": "Deep Learning Training",
+                  "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/training/"
+                },
+                {
+                  "name": "Generative AI",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/generative-ai/"
+                },
+                {
+                  "name": "Machine Learning",
+                  "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/machine-learning/"
+                },
+                {
+                  "name": "Prediction and Forecasting",
+                  "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/prediction-forecasting/"
+                },
+                {
+                  "name": "Speech AI",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/solutions/speech-ai/"
+                }
+              ]
+            },
+            {
+              "listheads": "Software",
+              "selection1": [
+                {
+                  "name": "AI Enterprise Suite",
+                  "url": "https://www.nvidia.com/en-in/data-center/products/ai-enterprise-suite/"
+                },
+                {
+                  "name": "AI Inference - Triton",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/products/triton-inference-server/"
+                },
+                {
+                  "name": "AI Workflows",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/ai-workflows/"
+                },
+                {
+                  "name": "Avatar - Tokkio",
+                  "url": "https://developer.nvidia.com/nvidia-omniverse-platform/ace/tokkio-showcase"
+                },
+                {
+                  "name": "Cybersecurity - Morpheus",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/products/morpheus/"
+                },
+                {
+                  "name": "Data Analytics - RAPIDS",
+                  "url": "https://www.nvidia.com/en-in/deep-learning-ai/software/rapids/"
+                },
+                {
+                  "name": "Apache Spark",
+                  "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/data-science/apache-spark-3/"
+                },
+                {
+                  "name": "AI Workbench",
+                  "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/data-science/workbench/"
+                },
+                {
+                  "name": "Large Language Models - NeMo Framework",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/generative-ai/nemo-framework/"
+                },
+                {
+                  "name": "Logistics and Route Optimization - cuOpt",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/products/cuopt/"
+                },
+                {
+                  "name": "Recommender Systems - Merlin",
+                  "url": "https://developer.nvidia.com/nvidia-merlin"
+                },
+                {
+                  "name": "Speech AI - Riva",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/products/riva/"
+                },
+                {
+                  "name": "NGC Overview",
+                  "url": "https://www.nvidia.com/en-in/gpu-cloud/"
+                },
+                {
+                  "name": "NGC Software Catalog",
+                  "url": "https://catalog.ngc.nvidia.com/"
+                },
+                {
+                  "name": "Open Source Software",
+                  "url": "https://developer.nvidia.com/open-source/"
+                }
+              ]
+            },
+            {
+              "listheads": "Products",
+              "selection1": [
+                {
+                  "name": "PC",
+                  "url": "https://www.nvidia.com/en-in/deep-learning-ai/products/titan-rtx/"
+                },
+                {
+                  "name": "Laptops & Workstations",
+                  "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/data-science/workstations/"
+                },
+                {
+                  "name": "Data Center",
+                  "url": "https://www.nvidia.com/en-in/data-center/"
+                },
+                {
+                  "name": "Cloud",
+                  "url": "https://www.nvidia.com/en-in/data-center/gpu-cloud-computing/"
+                }
+              ]
+            },
+            {
+              "listheads": "Resources",
+              "selection1": [
+                {
+                  "name": "Professional Services",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/professional-services/"
+                },
+                {
+                  "name": "Technical Training",
+                  "url": "https://www.nvidia.com/en-in/training/"
+                },
+                {
+                  "name": "Startups",
+                  "url": "https://www.nvidia.com/en-in/deep-learning-ai/startups/"
+                },
+                {
+                  "name": "Content Library",
+                  "url": "https://resources.nvidia.com/l/en-us-data-science"
+                },
+                {
+                  "name": "NVIDIA Research",
+                  "url": "https://www.nvidia.com/en-us/research/"
+                },
+                {
+                  "name": "Developer Blog",
+                  "url": "https://developer.nvidia.com/blog/category/data-science/"
+                },
+                {
+                  "name": "Kaggle Grandmaster",
+                  "url": "https://www.nvidia.com/en-us/ai-data-science/kaggle-grandmasters/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Developers",
+          "listitems": [
+            {
+              "listhead": "Developer Resources",
+              "listitems": [
+                {
+                  "name": "Join the Developer Program",
+                  "url": "https://developer.nvidia.com/join"
+                },
+                {
+                  "name": "NGC Software Catalog",
+                  "url": "https://ngc.nvidia.com/"
+                },
+                {
+                  "name": "Technical Training",
+                  "url": "https://www.nvidia.com/en-in/training/"
+                },
+                {
+                  "name": "News",
+                  "url": "https://news.developer.nvidia.com/"
+                },
+                {
+                  "name": "Blog",
+                  "url": "https://developer.nvidia.com/blog"
+                },
+                {
+                  "name": "Forums",
+                  "url": "https://forums.developer.nvidia.com/"
+                },
+                {
+                  "name": "Open Source Portal",
+                  "url": "https://developer.nvidia.com/open-source/"
+                },
+                {
+                  "name": "NVIDIA GTC",
+                  "url": "https://www.nvidia.com/gtc/"
+                },
+                {
+                  "name": "Startups",
+                  "url": "https://www.nvidia.com/en-in/deep-learning-ai/startups/"
+                },
+                {
+                  "name": "Developer Home >",
+                  "url": "https://developer.nvidia.com/"
+                }
+              ]
+            },
+            {
+              "listhead": "Application Frameworks",
+              "listitems": [
+                {
+                  "name": "AI Inference - Triton",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/products/triton-inference-server/"
+                },
+                {
+                  "name": "Automotive - DRIVE",
+                  "url": "https://developer.nvidia.com/drive"
+                },
+                {
+                  "name": "Cloud-AI Video Streaming - Maxine",
+                  "url": "https://developer.nvidia.com/MAXINE"
+                },
+                {
+                  "name": "Computational Lithography - cuLitho",
+                  "url": "https://developer.nvidia.com/culitho"
+                },
+                {
+                  "name": "Cybersecurity - Morpheus",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/products/morpheus/"
+                },
+                {
+                  "name": "Data Analytics - RAPIDS",
+                  "url": "https://www.nvidia.com/en-in/deep-learning-ai/software/rapids/"
+                },
+                {
+                  "name": "Generative AI",
+                  "url": "https://developer.nvidia.com/generative-ai"
+                },
+                {
+                  "name": "Healthcare - Clara",
+                  "url": "https://www.nvidia.com/en-in/clara/"
+                },
+                {
+                  "name": "High-Performance Computing",
+                  "url": "https://developer.nvidia.com/hpc-sdk"
+                },
+                {
+                  "name": "Intelligent Video Analytics - Metropolis",
+                  "url": "https://www.nvidia.com/en-in/autonomous-machines/intelligent-video-analytics-platform/"
+                },
+                {
+                  "name": "Logistics and Route Optimization - cuOpt",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/products/cuopt/"
+                },
+                {
+                  "name": "Metaverse Applications - Omniverse",
+                  "url": "https://developer.nvidia.com/nvidia-omniverse-platform"
+                },
+                {
+                  "name": "Recommender Systems - Merlin",
+                  "url": "https://developer.nvidia.com/nvidia-merlin"
+                },
+                {
+                  "name": "Robotics - Isaac",
+                  "url": "https://developer.nvidia.com/isaac"
+                },
+                {
+                  "name": "Speech AI - Riva",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/products/riva/"
+                },
+                {
+                  "name": "Telecommunications - Aerial",
+                  "url": "https://developer.nvidia.com/aerial-sdk"
+                }
+              ]
+            },
+            {
+              "listhead": "Top SDKs and Libraries",
+              "listitems": [
+                {
+                  "name": "Parallel Programming - CUDA Toolkit",
+                  "url": "https://developer.nvidia.com/cuda-zone"
+                },
+                {
+                  "name": "Edge AI applications - Jetpack",
+                  "url": "https://developer.nvidia.com/embedded/jetpack"
+                },
+                {
+                  "name": "BlueField data processing - DOCA",
+                  "url": "https://developer.nvidia.com/networking/doca"
+                },
+                {
+                  "name": "Accelerated Libraries - CUDA-X Libraries",
+                  "url": "https://developer.nvidia.com/gpu-accelerated-libraries"
+                },
+                {
+                  "name": "Deep Learning Inference - TensorRT",
+                  "url": "https://developer.nvidia.com/tensorrt"
+                },
+                {
+                  "name": "Deep Learning Training - cuDNN",
+                  "url": "https://developer.nvidia.com/cudnn"
+                },
+                {
+                  "name": "Deep Learning Frameworks",
+                  "url": "https://developer.nvidia.com/deep-learning-frameworks"
+                },
+                {
+                  "name": "Conversational AI - NeMo",
+                  "url": "https://developer.nvidia.com/nvidia-nemo"
+                },
+                {
+                  "name": "Generative AI - NeMo",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/generative-ai/nemo-framework/"
+                },
+                {
+                  "name": "Intelligent Video Analytics - DeepStream",
+                  "url": "https://developer.nvidia.com/deepstream-sdk"
+                },
+                {
+                  "name": "NVIDIA Unreal Engine 4",
+                  "url": "https://developer.nvidia.com/unrealengine"
+                },
+                {
+                  "name": "Ray Tracing - RTX",
+                  "url": "https://developer.nvidia.com/rtx"
+                },
+                {
+                  "name": "Video Decode/Encode",
+                  "url": "https://developer.nvidia.com/nvidia-video-codec-sdk"
+                },
+                {
+                  "name": "Automotive - DriveWorks SDK",
+                  "url": "https://developer.nvidia.com/drive/driveworks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Executives",
+          "url": "https://www.nvidia.com/en-in/executive-insights/"
+        },
+        {
+          "name": "Gamers",
+          "listitems": [
+            {
+              "listhead": "GeForce",
+              "listitems": [
+                {
+                  "name": "GeForce Graphics Cards",
+                  "url": "https://www.nvidia.com/en-in/geforce/graphics-cards/30-series/"
+                },
+                {
+                  "name": "Gaming Laptops",
+                  "url": "https://www.nvidia.com/en-in/geforce/gaming-laptops/"
+                },
+                {
+                  "name": "G-SYNC Monitors",
+                  "url": "https://www.nvidia.com/en-in/geforce/products/g-sync-monitors/"
+                },
+                {
+                  "name": "RTX Games",
+                  "url": "https://www.nvidia.com/en-in/geforce/20-series/rtx/"
+                },
+                {
+                  "name": "GeForce Experience",
+                  "url": "https://www.nvidia.com/en-in/geforce/geforce-experience/"
+                },
+                {
+                  "name": "GeForce Drivers",
+                  "url": "https://www.nvidia.com/en-in/geforce/drivers/"
+                },
+                {
+                  "name": "Forums",
+                  "url": "https://www.nvidia.com/en-us/geforce/forums/"
+                },
+                {
+                  "name": "Support",
+                  "url": "https://www.nvidia.com/en-in/geforce/support/"
+                },
+                {
+                  "name": "Shop",
+                  "url": "https://www.nvidia.com/en-in/geforce/buy/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "IT Professionals",
+          "listitems": [
+            {
+              "listhead": "Solutions",
+              "listitems": [
+                {
+                  "name": "Data Center (On-Premises)",
+                  "url": "https://www.nvidia.com/en-in/data-center/solutions/accelerated-computing/"
+                },
+                {
+                  "name": "Edge Computing",
+                  "url": "https://www.nvidia.com/en-in/edge-computing/"
+                },
+                {
+                  "name": "Cloud Computing",
+                  "url": "https://www.nvidia.com/en-in/data-center/gpu-cloud-computing/"
+                },
+                {
+                  "name": "Networking",
+                  "url": "https://www.nvidia.com/en-in/networking/"
+                },
+                {
+                  "name": "Virtualization",
+                  "url": "https://www.nvidia.com/en-in/data-center/virtualization/"
+                },
+                {
+                  "name": "Enterprise IT Solutions",
+                  "url": "https://www.nvidia.com/en-us/data-center/accelerated-computing-for-enterprise-it/"
+                }
+              ]
+            },
+            {
+              "listhead": "Software",
+              "listitems": [
+                {
+                  "name": "AI Enterprise Suite",
+                  "url": "https://www.nvidia.com/en-in/data-center/products/ai-enterprise-suite/"
+                },
+                {
+                  "name": "Cloud Native Support",
+                  "url": "https://developer.nvidia.com/egx-stack"
+                },
+                {
+                  "name": "Cluster Management",
+                  "url": "https://developer.nvidia.com/cluster-management"
+                },
+                {
+                  "name": "Edge Deployment Management",
+                  "url": "https://www.nvidia.com/en-in/data-center/products/fleet-command/"
+                },
+                {
+                  "name": "AI Inference - Triton",
+                  "url": "https://www.nvidia.com/en-in/ai-data-science/products/triton-inference-server/"
+                },
+                {
+                  "name": "IO Acceleration",
+                  "url": "https://www.nvidia.com/en-in/data-center/magnum-io/"
+                },
+                {
+                  "name": "Networking",
+                  "url": "https://www.nvidia.com/en-in/networking/products/software/"
+                },
+                {
+                  "name": "Virtual GPU",
+                  "url": "https://www.nvidia.com/en-in/data-center/virtual-solutions/"
+                }
+              ]
+            },
+            {
+              "listhead": "Apps and Tools",
+              "listitems": [
+                {
+                  "name": "Data Center",
+                  "url": "https://www.nvidia.com/en-us/data-center/software/"
+                },
+                {
+                  "name": "GPU Monitoring",
+                  "url": "https://developer.nvidia.com/dcgm"
+                },
+                {
+                  "name": "NVIDIA RTX Experience",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/software/rtx-experience/"
+                },
+                {
+                  "name": "NVIDIA RTX Desktop Manager",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/software/rtx-desktop-manager/"
+                }
+              ]
+            },
+            {
+              "listhead": "Resources",
+              "listitems": [
+                {
+                  "name": "Data Center & IT Resources",
+                  "url": "https://www.nvidia.com/en-in/data-center/resources/"
+                },
+                {
+                  "name": "Technical Training and Certification",
+                  "url": "https://academy.nvidia.com/en/"
+                },
+                {
+                  "name": "Enterprise Support",
+                  "url": "https://www.nvidia.com/en-us/support/enterprise/"
+                },
+                {
+                  "name": "Drivers",
+                  "url": "https://www.nvidia.com/Download/index.aspx?lang=en-us"
+                },
+                {
+                  "name": "Security",
+                  "url": "https://www.nvidia.com/en-in/product-security/"
+                },
+                {
+                  "name": "Product Documentation",
+                  "url": "https://docs.nvidia.com/"
+                },
+                {
+                  "name": "Forums",
+                  "url": "https://forums.developer.nvidia.com/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Researchers",
+          "listitems": [
+            {
+              "name": "NVIDIA Research Home",
+              "url": "https://www.nvidia.com/en-us/research/"
+            },
+            {
+              "name": "Research Areas",
+              "url": "https://www.nvidia.com/en-us/research/research-areas/"
+            },
+            {
+              "name": "AI Playground",
+              "url": "https://www.nvidia.com/en-us/research/ai-playground/"
+            },
+            {
+              "name": "Video Highlights",
+              "url": "https://www.youtube.com/user/NVIDIADeveloper"
+            },
+            {
+              "name": "COVID-19",
+              "url": "https://developer.nvidia.com/research/covid-19"
+            },
+            {
+              "name": "NGC Catalog",
+              "url": "https://catalog.ngc.nvidia.com/"
+            },
+            {
+              "name": "Technical Training",
+              "url": "https://www.nvidia.com/en-in/training/"
+            },
+            {
+              "name": "Startups",
+              "url": "https://www.nvidia.com/en-in/startups/"
+            },
+            {
+              "name": "News",
+              "url": "https://www.nvidia.com/en-us/research/news/"
+            },
+            {
+              "name": "Developer Blog",
+              "url": "https://developer.nvidia.com/blog/"
+            },
+            {
+              "name": "Open Source Portal",
+              "url": "https://developer.nvidia.com/open-source/"
+            },
+            {
+              "name": "Cambridge-1 Supercomputer",
+              "url": "https://www.nvidia.com/en-in/industries/healthcare-life-sciences/cambridge-1/"
+            },
+            {
+              "name": "3D Deep Learning Research",
+              "url": "https://developer.nvidia.com/nvidia-kaolin"
+            }
+          ]
+        },
+        {
+          "name": "Roboticists",
+          "listitems": [
+            {
+              "listhead": "Products",
+              "listitems": [
+                {
+                  "name": "AI Training - DGX",
+                  "url": "https://www.nvidia.com/en-in/data-center/dgx-systems/"
+                },
+                {
+                  "name": "Edge Computing - EGX",
+                  "url": "https://www.nvidia.com/en-in/data-center/products/egx/"
+                },
+                {
+                  "name": "Embedded Computing - Jetson",
+                  "url": "https://www.nvidia.com/en-in/autonomous-machines/embedded-systems/jetson-xavier-nx/"
+                }
+              ]
+            },
+            {
+              "listhead": "Software",
+              "listitems": [
+                {
+                  "name": "Robotics - Isaac ROS",
+                  "url": "https://developer.nvidia.com/isaac-ros"
+                },
+                {
+                  "name": "Simulation - Isaac Sim",
+                  "url": "https://developer.nvidia.com/isaac-sim"
+                },
+                {
+                  "name": "TAO Toolkit",
+                  "url": "https://developer.nvidia.com/transfer-learning-toolkit"
+                },
+                {
+                  "name": "Vision AI - Deepstream SDK",
+                  "url": "https://developer.nvidia.com/deepstream-sdk"
+                },
+                {
+                  "name": "Edge Deployment Management",
+                  "url": "https://www.nvidia.com/en-in/data-center/products/fleet-command/"
+                },
+                {
+                  "name": "Synthetic Data Generation - Replicator",
+                  "url": "https://developer.nvidia.com/nvidia-omniverse-platform/replicator"
+                }
+              ]
+            },
+            {
+              "listhead": "Use Cases",
+              "listitems": [
+                {
+                  "name": "Healthcare and Life Sciences",
+                  "url": "https://www.nvidia.com/en-in/industries/healthcare-life-sciences/"
+                },
+                {
+                  "name": "Manufacturing",
+                  "url": "https://www.nvidia.com/en-in/design-visualization/industries/manufacturing/"
+                },
+                {
+                  "name": "Public Sector",
+                  "url": "https://www.nvidia.com/en-us/industries/public-sector/"
+                },
+                {
+                  "name": "Retail",
+                  "url": "https://www.nvidia.com/en-in/industries/retail/"
+                },
+                {
+                  "name": "Robotics",
+                  "url": "https://www.nvidia.com/en-in/deep-learning-ai/industries/robotics/"
+                },
+                {
+                  "name": "More >",
+                  "url": "https://www.nvidia.com/en-in/industries/"
+                }
+              ]
+            },
+            {
+              "listhead": "Resources",
+              "listitems": [
+                {
+                  "name": "NVIDIA Blog",
+                  "url": "https://blogs.nvidia.com/blog/category/robotics/"
+                },
+                {
+                  "name": "Robotics Research",
+                  "url": "https://www.nvidia.com/en-us/research/"
+                },
+                {
+                  "name": "Developer Blog",
+                  "url": "https://developer.nvidia.com/blog?r=1&tags=&categories=robotics"
+                },
+                {
+                  "name": "Technical Training",
+                  "url": "https://www.nvidia.com/en-in/training/"
+                },
+                {
+                  "name": "Startups",
+                  "url": "https://www.nvidia.com/en-in/startups/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Startups",
+          "url": "https://www.nvidia.com/en-in/deep-learning-ai/startups/"
+        }
+      ]
+    }
+  ],
+  "navlink": [
+    {
+      "name": "Shop",
+      "url": "https://store.nvidia.com/en-in/"
+    },
+    {
+      "name": "Drivers",
+      "url": "https://www.nvidia.com/en-in/drivers/"
+    },
+    {
+      "name": "Support",
+      "url": "https://www.nvidia.com/en-us/support/"
+    }
+  ]
+}
