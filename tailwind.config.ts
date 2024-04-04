@@ -10,21 +10,15 @@ const config = {
   ],
   prefix: "",
   theme: {
-    colors: {
-      nv: {
-        green: "#91c733",
-        dark: "#1a1a1a",
-        light: "#f1f1f1",
-      },
-    },
-    container: {
-      center: true,
-      padding: "2rem",
-      screens: {
-        "2xl": "1400px",
-      },
-    },
     extend: {
+      colors: {
+        nv: {
+          green: "#91c733",
+          dark: "#1a1a1a",
+          light: "#f1f1f1",
+          gray: "#999",
+        },
+      },
       keyframes: {
         "accordion-down": {
           from: { height: "0" },
