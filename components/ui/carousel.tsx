@@ -4,7 +4,7 @@ import * as React from "react"
 import useEmblaCarousel, {
   type UseEmblaCarouselType,
 } from "embla-carousel-react"
-import { ArrowLeft, ArrowRight } from "lucide-react"
+import { FaAngleLeft, FaAngleRight } from "react-icons/fa6"
 
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
@@ -184,7 +184,7 @@ const CarouselItem = React.forwardRef<
       role="group"
       aria-roledescription="slide"
       className={cn(
-        "min-w-0 shrink-0 grow-0 basis-full",
+        "min-w-0 shrink-0 grow-0",
         orientation === "horizontal" ? "pl-4" : "pt-4",
         className
       )}
@@ -197,20 +197,19 @@ CarouselItem.displayName = "CarouselItem"
 const CarouselPrevious = React.forwardRef<
   HTMLButtonElement,
   React.ComponentProps<typeof Button>
->(({ className, variant = "outline", size = "icon", ...props }, ref) => {
-  const { scrollPrev, canScrollPrev } = useCarousel()
+>(({ className = "bg-nv-green m-2", variant = "default", size = "icon", ...props }, ref) => {
+  const { scrollPrev, } = useCarousel()
 
   return (
     <Button
       ref={ref}
       variant={variant}
       size={size}
-      className={cn("h-8 w-8", className)}
-      disabled={!canScrollPrev}
+      className={cn("h-10 w-9", className)}
       onClick={scrollPrev}
       {...props}
     >
-      <ArrowLeft className="h-4 w-4" />
+      <FaAngleLeft className="h-5 w-4" />
       <span className="sr-only">Previous slide</span>
     </Button>
   )
@@ -220,7 +219,7 @@ CarouselPrevious.displayName = "CarouselPrevious"
 const CarouselNext = React.forwardRef<
   HTMLButtonElement,
   React.ComponentProps<typeof Button>
->(({ className, variant = "outline", size = "icon", ...props }, ref) => {
+>(({ className = "bg-nv-green m-2", variant = "default", size = "icon", ...props }, ref) => {
   const { scrollNext, canScrollNext } = useCarousel()
 
   return (
@@ -228,12 +227,11 @@ const CarouselNext = React.forwardRef<
       ref={ref}
       variant={variant}
       size={size}
-      className={cn("h-8 w-8", className)}
-      disabled={!canScrollNext}
+      className={cn("h-10 w-9", className)}
       onClick={scrollNext}
       {...props}
     >
-      <ArrowRight className="h-4 w-4" />
+      <FaAngleRight className="h-5 w-4" />
       <span className="sr-only">Next slide</span>
     </Button>
   )
