@@ -10,7 +10,7 @@ import carousel8 from "@/data/carousel-8.json";
 
 export default function commonCarouselWrapper() {
   return (
-    <div>
+    <div className="container-s">
       <CommonCarousel data={carousel1} />
       <CommonCarousel data={carousel2} />
       <CommonCarousel data={carousel3} />

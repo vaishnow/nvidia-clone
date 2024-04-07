@@ -7,27 +7,25 @@ export default function Header() {
   const { navmenu, navlink } = navItems;
   return (
     <header className="sticky top-0 z-10 bg-white">
-      <div className="flex items-center mx-auto w-full lg:w-[1000px] xl:w-[1280px]">
+      <div className="flex items-center container w-full">
         <Image src={nvLogo} alt="NVIDIA Logo" />
-        <div className="w-full hidden lg:flex justify-between ">
-          <ul className="flex">
+        <div className="w-full hidden lg:flex justify-between text-nv-gray items-center">
+          <ul className="flex ms-10">
             {navmenu.map((menu) => (
               <li className="w-20" key={menu.name}>
                 {menu.name}
               </li>
             ))}
           </ul>
-          <ul className="flex">
+          <ul className="flex justify-evenly w-96 text-sm">
             {navlink.map((menu) => (
-              <li className="w-20" key={menu.name}>
+              <li key={menu.name}>
                 {menu.name}
               </li>
             ))}
-            <li>
-              <PiMagnifyingGlass />
-            </li>
-            <li>
-              <PiUserCircle />
+            <li className="flex">
+              <PiMagnifyingGlass className="size-6 mx-3" />
+              <PiUserCircle className="size-6" />
             </li>
           </ul>
         </div>

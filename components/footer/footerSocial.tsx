@@ -7,33 +7,34 @@ import {
 } from "react-icons/fa6";
 
 export default function footerSocial() {
+  const size="size-6 mx-2"
   const socials = [
     {
       url: "https://www.facebook.com/NVIDIA",
-      reactIconName: <FaFacebookF />,
+      reactIconName: <FaFacebookF className={size}/>,
     },
     {
       url: "https://www.instagram.com/nvidia/?hl=en",
-      reactIconName: <FaInstagram />,
+      reactIconName: <FaInstagram className={size}/>,
     },
     {
       url: "https://www.linkedin.com/company/nvidia/",
-      reactIconName: <FaLinkedinIn />,
+      reactIconName: <FaLinkedinIn className={size}/>,
     },
     {
       url: "https://twitter.com/nvidia",
-      reactIconName: <FaXTwitter />,
+      reactIconName: <FaXTwitter className={size}/>,
     },
     {
       url: "https://www.youtube.com/user/nvidia",
-      reactIconName: <FaYoutube />,
+      reactIconName: <FaYoutube className={size}/>,
     },
   ];
 
   return (
     <>
       {socials.map((item) => (
-        <a href={item.url}> {item.reactIconName}</a>
+        <a href={item.url} key={item.url}> {item.reactIconName}</a>
       ))}
     </>
   );

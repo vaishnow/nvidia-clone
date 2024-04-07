@@ -1,0 +1,24 @@
+.progressBar {
+  animation: progress 5s linear;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  margin-right: auto;
+  @apply bg-nv-green
+}
+
+.progressWrapper {
+  background-color: rgba(153, 153, 153, 0.4);
+  @apply h-1
+}
+
+@keyframes progress {
+  from {
+    transform: translateX(-100%);
+  }
+
+  to {
+    transform: translateX(0);
+
+  }
+}
