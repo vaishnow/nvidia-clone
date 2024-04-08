@@ -624,10 +624,10 @@
       "dropdowns": [
         {
           "name": "Creatives/Designers",
-          "listitems": [
+          "lists": [
             {
-              "listheads": "NVIDIA Studio",
-              "selection1": [
+              "listhead": "NVIDIA Studio",
+              "listitems": [
                 {
                   "name": "Overview",
                   "url": "https://www.nvidia.com/en-in/studio/"
@@ -651,8 +651,8 @@
               ]
             },
             {
-              "listheads": "Industries",
-              "selection1": [
+              "listhead": "Industries",
+              "listitems": [
                 {
                   "name": "Media and Entertainment",
                   "url": "https://www.nvidia.com/en-in/design-visualization/industries/media-entertainment/"
@@ -672,8 +672,8 @@
               ]
             },
             {
-              "listheads": "Solutions",
-              "selection1": [
+              "listhead": "Solutions",
+              "listitems": [
                 {
                   "name": "Data Center/Cloud",
                   "url": "https://www.nvidia.com/en-in/design-visualization/quadro-servers/rtx/"
@@ -712,10 +712,10 @@
         },
         {
           "name": "Data Scientists",
-          "listitems": [
+          "lists": [
             {
-              "listheads": "Industries",
-              "selection1": [
+              "listhead": "Industries",
+              "listitems": [
                 {
                   "name": "Financial Services",
                   "url": "https://www.nvidia.com/en-in/industries/finance/"
@@ -747,8 +747,8 @@
               ]
             },
             {
-              "listheads": "Solutions",
-              "selection1": [
+              "listhead": "Solutions",
+              "listitems": [
                 {
                   "name": "AI Inference",
                   "url": "https://www.nvidia.com/en-in/deep-learning-ai/solutions/inference-platform/"
@@ -788,8 +788,8 @@
               ]
             },
             {
-              "listheads": "Software",
-              "selection1": [
+              "listhead": "Software",
+              "listitems": [
                 {
                   "name": "AI Enterprise Suite",
                   "url": "https://www.nvidia.com/en-in/data-center/products/ai-enterprise-suite/"
@@ -853,8 +853,8 @@
               ]
             },
             {
-              "listheads": "Products",
-              "selection1": [
+              "listhead": "Products",
+              "listitems": [
                 {
                   "name": "PC",
                   "url": "https://www.nvidia.com/en-in/deep-learning-ai/products/titan-rtx/"
@@ -874,8 +874,8 @@
               ]
             },
             {
-              "listheads": "Resources",
-              "selection1": [
+              "listhead": "Resources",
+              "listitems": [
                 {
                   "name": "Professional Services",
                   "url": "https://www.nvidia.com/en-in/ai-data-science/professional-services/"
@@ -910,7 +910,7 @@
         },
         {
           "name": "Developers",
-          "listitems": [
+          "lists": [
             {
               "listhead": "Developer Resources",
               "listitems": [
@@ -1094,7 +1094,7 @@
         },
         {
           "name": "Gamers",
-          "listitems": [
+          "lists": [
             {
               "listhead": "GeForce",
               "listitems": [
@@ -1140,7 +1140,7 @@
         },
         {
           "name": "IT Professionals",
-          "listitems": [
+          "lists": [
             {
               "listhead": "Solutions",
               "listitems": [
@@ -1265,7 +1265,7 @@
         },
         {
           "name": "Researchers",
-          "listitems": [
+          "lists": [
             {
               "name": "NVIDIA Research Home",
               "url": "https://www.nvidia.com/en-us/research/"
@@ -1322,7 +1322,7 @@
         },
         {
           "name": "Roboticists",
-          "listitems": [
+          "lists": [
             {
               "listhead": "Products",
               "listitems": [
