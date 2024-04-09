@@ -71,6 +71,7 @@ export default function RecommendedCarousel({
                         href={item.url}
                         rel="noopener noreferrer"
                         className="group"
+                        key={item.name}
                       >
                         {item.name}
                         <FaAngleRight className="inline w-[10px] ms-1 text-nv-green group-hover:text-nv-dark group-hover:translate-x-2 duration-1000" />
@@ -106,6 +107,7 @@ export default function RecommendedCarousel({
                           href={item.url}
                           rel="noopener noreferrer"
                           className="group"
+                          key={item.name}
                         >
                           {item.name}
                           <FaAngleRight className="inline w-[10px] ms-1 text-nv-green group-hover:text-nv-dark group-hover:translate-x-2 duration-1000" />
