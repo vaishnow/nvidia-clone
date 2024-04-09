@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { TfiAngleDown } from "react-icons/tfi";
 import DropDown from "./dropDown";
 
 interface Props {
@@ -19,17 +20,23 @@ export default function DropDownWrapper({ active, menu }: Props) {
     return (
       active && (
         <div
-          className={`w-full absolute left-0 top-full h-full bg-nv-light shadow flex`}
+          className={`w-full lg:absolute left-0 top-full h-full bg-white lg:bg-nv-light shadow lg:flex`}
         >
           {dropdowns?.map((item, index) => (
             <div key={index}>
               <div
                 onClick={() => setL1Active(index)}
-                className={`h-full p-3 ${
-                  l1Active === index && `border-b-nv-green border-b-4`
+                className={`h-full flex justify-between p-3 ${
+                  l1Active === index &&
+                  `border-b-nv-green border-0 lg:border-b-4`
                 }`}
               >
                 {item?.name}
+                <TfiAngleDown
+                  className={`text-black lg:hidden ${
+                    l1Active === index && `rotate-180`
+                  }`}
+                />
               </div>
               {l1Active === index && <DropDown data={item.lists} />}
             </div>
@@ -38,5 +45,9 @@ export default function DropDownWrapper({ active, menu }: Props) {
       )
     );
   else if (menu?.lists)
-    return <DropDown className={`${!active && `hidden `}`} data={menu.lists} />;
+    return (
+      active && (
+        <DropDown className={`${!active && `hidden `}`} data={menu.lists} />
+      )
+    );
 }
