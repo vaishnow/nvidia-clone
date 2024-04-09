@@ -39,15 +39,49 @@ export default function RecommendedCarousel({
           }}
           className="my-20 float-none overflow-hidden"
         >
-          <div className="hidden sm:flex">
+          <div className="sm:flex my-3">
             <h2 className="my-auto text-2xl font-bold">{title}</h2>
-            <div className="ms-auto">
+            <div className="ms-auto max-sm:hidden">
               <CarouselPrevious />
               <CarouselNext />
             </div>
           </div>
+          <div className="w-full sm:hidden ps-3">
+            <div className="leading-7 tracking-wide text-lg">
+              <p className="text-lg xl:text-xl text-nv-dark leading-7 font-thin">
+                {desc}
+              </p>
+              <div className="font-bold text-[15px]">
+                <button
+                  onClick={() => setQlIsVisible((prev) => !prev)}
+                  className="block my-8"
+                >
+                  <FaAngleRight
+                    className={`inline w-[10px] text-nv-green group-hover:text-nv-dark group-hover:translate-x-2 me-5  ${
+                      qlIsVisible ? `-rotate-90` : `rotate-90`
+                    }`}
+                  />
+                  Quick Links
+                </button>
+                <div className="flex gap-5 flex-wrap">
+                  {qlIsVisible &&
+                    quicklinks.map((item) => (
+                      <a
+                        target="_blank"
+                        href={item.url}
+                        rel="noopener noreferrer"
+                        className="group"
+                      >
+                        {item.name}
+                        <FaAngleRight className="inline w-[10px] ms-1 text-nv-green group-hover:text-nv-dark group-hover:translate-x-2 duration-1000" />
+                      </a>
+                    ))}
+                </div>
+              </div>
+            </div>
+          </div>
           <CarouselContent className="p-5">
-            <div className="min-w-[480px]">
+            <div className="sm:min-w-[480px] max-sm:hidden">
               <div className="leading-7 tracking-wide text-lg">
                 <p className="text-lg xl:text-xl text-nv-dark leading-7 font-thin">
                   {desc}
@@ -58,9 +92,9 @@ export default function RecommendedCarousel({
                     className="block my-8"
                   >
                     <FaAngleRight
-                      className={
-                        `inline w-[10px] text-nv-green group-hover:text-nv-dark group-hover:translate-x-2 me-5  ${qlIsVisible ? `-rotate-90` : `rotate-90`}`
-                      }
+                      className={`inline w-[10px] text-nv-green group-hover:text-nv-dark group-hover:translate-x-2 me-5  ${
+                        qlIsVisible ? `-rotate-90` : `rotate-90`
+                      }`}
                     />
                     Quick Links
                   </button>
