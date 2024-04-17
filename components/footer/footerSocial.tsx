@@ -32,10 +32,10 @@ export default function footerSocial() {
   ];
 
   return (
-    <>
+    <div className="flex">
       {socials.map((item) => (
         <a href={item.url} key={item.url}> {item.reactIconName}</a>
       ))}
-    </>
+    </div>
   );
 }

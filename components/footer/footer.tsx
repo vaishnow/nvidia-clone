@@ -12,15 +12,15 @@ export default function Footer() {
       <div>
         <div>
           <div className="w-full bg-nv-dark px-5 py-10">
-            <div className="container text-white flex justify-between">
+            <div className="container text-white flex flex-wrap justify-between">
               {footerInfo.map((item) => (
-                <div className="w-96" key={item.title}>
+                <div className="w-full sm:w-72" key={item.title}>
                   <FooterInfo footerList={item} />
                 </div>
               ))}
             </div>
-            <div className="flex container justify-between items-center mt-16">
-              <div className="flex items-center">
+            <div className="max-lg:flex-col flex gap-4 container justify-between items-center mt-16">
+              <div className="max-sm:flex-col flex items-center">
                 <IoMailOutline className="text-nv-green w-16 h-12" />
                 <p className="text-nv-light mx-5 text-lg">
                   Sign Up for NVIDIA News
@@ -34,15 +34,15 @@ export default function Footer() {
                   Subscribe
                 </a>
               </div>
-              <div className="flex text-nv-gray">
-                <span className="me-5">Follow NVIDIA</span>
+              <div className="max-sm:flex-col text-center flex text-nv-gray">
+                <span className="sm:me-5">Follow NVIDIA</span>
                 <FooterSocial />
               </div>
             </div>
           </div>
         </div>
         <div className="container py-5">
-          <div className="flex justify-between">
+          <div className="flex max-sm:flex-col items-center sm:justify-between">
             <Image
               src={nvLogoBlack}
               alt="NVIDIA Logo black"
@@ -52,10 +52,10 @@ export default function Footer() {
           </div>
         </div>
         <div className="container text-nv-gray">
-          <div className="flex flex-wrap gap-2">
+          <div className="flex flex-wrap gap-2 justify-center">
             <FooterLinks />
           </div>
-          <p className="text-xs mt-2 mb-6">Copyright © 2024 NVIDIA Corporation</p>
+          <p className="text-xs mt-2 mb-6 text-center">Copyright © 2024 NVIDIA Corporation</p>
         </div>
       </div>
     </footer>

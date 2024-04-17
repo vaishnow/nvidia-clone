@@ -5,7 +5,7 @@ export default function footerLinks() {
     <>
       {links.map((item, index) => (
         <div key={item.name} className="flex">
-            <a href={item.url} className="whitespace-nowrap me-1">{item.name}</a>
+            <a href={item.url} className="whitespace-nowrap me-1 hover:text-black">{item.name}</a>
             {index < links.length - 1 && "|"}
         </div>
       ))}
