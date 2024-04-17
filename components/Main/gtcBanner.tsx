@@ -5,8 +5,8 @@ import { FaAngleRight } from "react-icons/fa6";
 export default function gtcBanner() {
   return (
     <div className="bg-nv-light">
-      <div className="flex container">
-        <div className="w-40 mx-5">
+      <div className="sm:flex container">
+        <div className="max-w-20 mx-5">
           <Image src={gtcLogo} alt="NVIDIA GTC" className="h-auto" />
         </div>
         <div className="p-4 tracking-wider">
